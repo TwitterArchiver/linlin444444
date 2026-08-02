@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1942605279956517193",
+    "created_at": "2025-07-08T15:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T16:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942605279956517193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "378340116",
+          "start": 3,
+          "username": "4_ACO_DMT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "overdose.day",
+          "end": 50,
+          "expanded_url": "http://overdose.day",
+          "images": [
+            {
+              "height": 455,
+              "url": "https://pbs.twimg.com/news_img/1942070289971757056/gYA6Otpx?format=jpg&name=orig",
+              "width": 1076
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1942070289971757056/gYA6Otpx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 27,
+          "status": 200,
+          "title": "药物百科",
+          "unwound_url": "https://overdose.day/",
+          "url": "https://t.co/8PgIlDcWNp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942605279956517193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942466107518116200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4_ACO_DMT: 大家好我是Sakura\nhttps://t.co/8PgIlDcWNp副主编 \n主要研究有精神活性的化工原料\n提供药物咨询/致幻剂咨询/心理咨询\n都是免费的 有事说事 看到会回 叫我外号一律拉黑 我只喜欢Sakura这个名字\n我脾气很好 有一个爱我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1942605279956517193",
+        "created_at": "2025-07-08T15:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942605279956517193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "378340116",
+              "start": 3,
+              "username": "4_ACO_DMT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "overdose.day",
+              "end": 50,
+              "expanded_url": "http://overdose.day",
+              "images": [
+                {
+                  "height": 455,
+                  "url": "https://pbs.twimg.com/news_img/1942070289971757056/gYA6Otpx?format=jpg&name=orig",
+                  "width": 1076
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1942070289971757056/gYA6Otpx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "药物百科",
+              "unwound_url": "https://overdose.day/",
+              "url": "https://t.co/8PgIlDcWNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942605279956517193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942466107518116200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4_ACO_DMT: 大家好我是Sakura\nhttps://t.co/8PgIlDcWNp副主编 \n主要研究有精神活性的化工原料\n提供药物咨询/致幻剂咨询/心理咨询\n都是免费的 有事说事 看到会回 叫我外号一律拉黑 我只喜欢Sakura这个名字\n我脾气很好 有一个爱我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "378340116",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1942466107518116200",
+        "created_at": "2025-07-08T06:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942466107518116200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "overdose.day",
+              "end": 35,
+              "expanded_url": "http://overdose.day",
+              "images": [
+                {
+                  "height": 455,
+                  "url": "https://pbs.twimg.com/news_img/1942070289971757056/gYA6Otpx?format=jpg&name=orig",
+                  "width": 1076
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1942070289971757056/gYA6Otpx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "药物百科",
+              "unwound_url": "https://overdose.day/",
+              "url": "https://t.co/8PgIlDcWNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942466107518116200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1910,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是Sakura\nhttps://t.co/8PgIlDcWNp副主编 \n主要研究有精神活性的化工原料\n提供药物咨询/致幻剂咨询/心理咨询\n都是免费的 有事说事 看到会回 叫我外号一律拉黑 我只喜欢Sakura这个名字\n我脾气很好 有一个爱我的女友 我很幸福 我心态健康 我喜欢致幻剂 \n我不会推荐任何物质 也不会找人做小白鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物圈科普系第一个地雷女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 86,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 63,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5244,
+          "following_count": 65,
+          "like_count": 411,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-23T01:31:13.000Z",
+        "description": "https://t.co/PKH3fo0N8f副主编，欢迎私信咨询问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/PKH3fo0N8f"
+              }
+            ]
+          }
+        },
+        "id": "378340116",
+        "location": "https://www.overdose.day/",
+        "name": "✝️Sakura ✝️",
+        "pinned_tweet_id": "1942466107518116200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942454408991891456/6UbN_3JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 33,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "4_ACO_DMT",
+        "verified": false
+      }
+    ]
+  }
+}

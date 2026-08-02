@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1936751117297439026",
+    "created_at": "2025-06-22T14:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T15:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936797455179485377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1672784112636289024",
+          "start": 0,
+          "username": "ruby_89757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936797455179485377",
+    "in_reply_to_user_id": "1672784112636289024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936782897387831335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruby_89757 最近喜欢高马尾把刘海扎起来😋👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1936751117297439026",
+        "created_at": "2025-06-22T14:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936797455179485377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1672784112636289024",
+              "start": 0,
+              "username": "ruby_89757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936797455179485377",
+        "in_reply_to_user_id": "1672784112636289024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936782897387831335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruby_89757 最近喜欢高马尾把刘海扎起来😋👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672784112636289024",
+        "conversation_id": "1936751117297439026",
+        "created_at": "2025-06-22T13:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936782897387831335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936782897387831335",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936751117297439026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 头发呢？？？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5137,
+          "following_count": 59,
+          "like_count": 366,
+          "listed_count": 10,
+          "media_count": 19,
+          "tweet_count": 38
+        },
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T01:49:54.000Z",
+        "description": "",
+        "id": "1672784112636289024",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "ruby_89757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672784368123904001/mQdIgGA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 880,
+          "like_count": 11455,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 512
+        },
+        "username": "ruby_89757",
+        "verified": false
+      }
+    ]
+  }
+}

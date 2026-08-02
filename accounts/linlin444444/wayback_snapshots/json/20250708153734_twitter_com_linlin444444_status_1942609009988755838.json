@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1942609009988755838",
+    "created_at": "2025-07-08T15:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T16:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942609009988755838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_overdose_day…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/x_overdose_day/status/1942469803773432175",
+          "start": 23,
+          "url": "https://t.co/IRRKhWrAdq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942609009988755838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942469803773432175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你守不了我会替你守好化学百科和RX百科的👁👁 https://t.co/IRRKhWrAdq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1942609009988755838",
+        "created_at": "2025-07-08T15:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942609009988755838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_overdose_day…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/x_overdose_day/status/1942469803773432175",
+              "start": 23,
+              "url": "https://t.co/IRRKhWrAdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942609009988755838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942469803773432175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你守不了我会替你守好化学百科和RX百科的👁👁 https://t.co/IRRKhWrAdq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894359849812856834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1942469803773432175",
+        "created_at": "2025-07-08T06:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942469803773432175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942469803773432175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6138,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道各位能活十年不🤣🤣🤣🤣\n网站反正是续费了十年🤣🤣🤣🤣\n编辑组有几个不化学极乐的🤣🤣🤣🤣\n我们磕的人可能撑不过十年🤣🤣🤣🤣\n但是有别人能守护这个网站🤣🤣🤣🤣\n Oder可是过几个月就换一批人🤣🤣🤣\n域名和服务器续费了很久很久🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物圈科普系第一个地雷女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 86,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 63,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5245,
+          "following_count": 66,
+          "like_count": 411,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:12:45.000Z",
+        "description": "药物百科\nwiki主沐雨:@drug_artist\n副wiki主:Sakura\n投稿请私信我\n欢迎访问https://t.co/kpcYDRTGSo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "drug_artist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 74,
+                "expanded_url": "http://overdose.day",
+                "start": 51,
+                "url": "https://t.co/kpcYDRTGSo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/kpcYDRTGSo"
+              }
+            ]
+          }
+        },
+        "id": "1894359849812856834",
+        "location": "Xanax天国",
+        "name": "drug百科",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942170925098536960/cpWSRmjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 25,
+          "like_count": 49,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/kpcYDRTGSo",
+        "username": "x_overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

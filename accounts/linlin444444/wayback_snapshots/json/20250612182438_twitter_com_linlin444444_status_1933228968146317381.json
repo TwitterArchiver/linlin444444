@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1933228968146317381",
+    "created_at": "2025-06-12T18:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T19:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933228968146317381"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1933228968146317381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我能免费操你吗？并内射你 ！吃一次药损害没有这么大 我姐就学医的 你不信我可以在你面前给我姐打电话问 而且我想和你做爱 不是和套做 内射在你身体里被包裹着很温暖很舒服啊 而且你也会很舒服 如果不内射 真的没啥感觉  我喜欢的是你 又不是避孕套 你自己考虑考虑吧 我等你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1933228968146317381",
+        "created_at": "2025-06-12T18:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T19:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933228968146317381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933228968146317381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能免费操你吗？并内射你 ！吃一次药损害没有这么大 我姐就学医的 你不信我可以在你面前给我姐打电话问 而且我想和你做爱 不是和套做 内射在你身体里被包裹着很温暖很舒服啊 而且你也会很舒服 如果不内射 真的没啥感觉  我喜欢的是你 又不是避孕套 你自己考虑考虑吧 我等你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1932500384687468671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5148,
+          "following_count": 61,
+          "like_count": 326,
+          "listed_count": 10,
+          "media_count": 16,
+          "tweet_count": 37
+        },
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

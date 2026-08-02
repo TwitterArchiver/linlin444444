@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1984837562461274161",
+    "created_at": "2025-11-02T04:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T05:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984837990699712581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783797146694934528",
+          "start": 0,
+          "username": "linanxxxx04"
+        },
+        {
+          "end": 23,
+          "id": "3022697779",
+          "start": 13,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984837990699712581",
+    "in_reply_to_user_id": "1783797146694934528",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984837562461274161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linanxxxx04 @RXdruglab hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1984837562461274161",
+        "created_at": "2025-11-02T04:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984837990699712581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783797146694934528",
+              "start": 0,
+              "username": "linanxxxx04"
+            },
+            {
+              "end": 23,
+              "id": "3022697779",
+              "start": 13,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984837990699712581",
+        "in_reply_to_user_id": "1783797146694934528",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984837562461274161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linanxxxx04 @RXdruglab hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783797146694934528",
+        "conversation_id": "1984837562461274161",
+        "created_at": "2025-11-02T04:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984837562461274161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1699445300950093824",
+              "start": 22,
+              "username": "linlin444444"
+            },
+            {
+              "end": 47,
+              "id": "3022697779",
+              "start": 37,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984837562461274161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有谁不知道我们两位重要成员都是推特大po\n@linlin444444 \n@RXdruglab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5548,
+          "following_count": 67,
+          "like_count": 316,
+          "listed_count": 11,
+          "media_count": 27,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T09:56:05.000Z",
+        "description": "本账号为Rxwiki官方账号 为wiki主 主编 两人管理。官方账号：https://t.co/Zz5YDaeENa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 58,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 35,
+                "url": "https://t.co/Zz5YDaeENa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 0,
+                "url": "https://t.co/Zz5YDaeENa"
+              }
+            ]
+          }
+        },
+        "id": "1783797146694934528",
+        "name": "RxLL wiki",
+        "pinned_tweet_id": "1937268338083926125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984574512952684545/N9pz8K6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 13,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/Zz5YDaeENa",
+        "username": "linanxxxx04",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16167,
+          "following_count": 19,
+          "like_count": 20,
+          "listed_count": 20,
+          "media_count": 52,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

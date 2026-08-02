@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1929410687714852941",
+    "created_at": "2025-06-02T13:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T14:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929528527696663001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762470904829796352",
+          "start": 0,
+          "username": "I2_1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929528527696663001",
+    "in_reply_to_user_id": "1762470904829796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929410687714852941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I2_1222 会很爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1929410687714852941",
+        "created_at": "2025-06-02T13:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T14:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929528527696663001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762470904829796352",
+              "start": 0,
+              "username": "I2_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929528527696663001",
+        "in_reply_to_user_id": "1762470904829796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929410687714852941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I2_1222 会很爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762470904829796352",
+        "conversation_id": "1929410687714852941",
+        "created_at": "2025-06-02T05:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929410687714852941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929410687714852941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8334,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推推恋会怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 61,
+          "like_count": 286,
+          "listed_count": 10,
+          "media_count": 15,
+          "tweet_count": 36
+        },
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T13:33:13.000Z",
+        "description": "4 What？\n|互关加微信好吗求求了|\n我的提问箱：https://t.co/IeQZ4jzuWM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i2_12222",
+                "end": 50,
+                "expanded_url": "https://ngl.link/i2_12222",
+                "start": 27,
+                "url": "https://t.co/IeQZ4jzuWM"
+              }
+            ]
+          }
+        },
+        "id": "1762470904829796352",
+        "name": "12^",
+        "pinned_tweet_id": "1928488456298103127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902731517186699265/kOF01xfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 2952,
+          "like_count": 75334,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 5742
+        },
+        "username": "I2_1222",
+        "verified": false
+      }
+    ]
+  }
+}

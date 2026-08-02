@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1937104752732725655",
+    "created_at": "2025-06-23T11:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T12:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937114110183047481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836347268561305600",
+          "start": 0,
+          "username": "ksmm666309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937114110183047481",
+    "in_reply_to_user_id": "1836347268561305600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937112627689472379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksmm666309 你才是主人级别😋👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1937104752732725655",
+        "created_at": "2025-06-23T11:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937114110183047481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836347268561305600",
+              "start": 0,
+              "username": "ksmm666309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937114110183047481",
+        "in_reply_to_user_id": "1836347268561305600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937112627689472379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksmm666309 你才是主人级别😋👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836347268561305600",
+        "conversation_id": "1937104752732725655",
+        "created_at": "2025-06-23T11:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937112627689472379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937112627689472379",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937104752732725655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 看到就走不动道了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主药物圈第一个地雷女科普系博主|很好说话 会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 88,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 65,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5157,
+          "following_count": 59,
+          "like_count": 368,
+          "listed_count": 10,
+          "media_count": 20,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T10:11:30.000Z",
+        "description": "18↓丨男的+v🚪52\n丨日本語/中文⭕️",
+        "id": "1836347268561305600",
+        "location": "你心里",
+        "name": "ksmm",
+        "pinned_tweet_id": "1918985788454580443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893487510845902849/uVhUKCIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 120,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 583
+        },
+        "username": "ksmm666309",
+        "verified": false
+      }
+    ]
+  }
+}

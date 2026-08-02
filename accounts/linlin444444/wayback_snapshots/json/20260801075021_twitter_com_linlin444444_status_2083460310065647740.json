@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2083460310065647740",
+    "created_at": "2026-08-01T07:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083460310065647740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rxdruglab/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/rxdruglab/status/2083450031181648379",
+          "start": 37,
+          "url": "https://t.co/W5NyY8MhQp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083460310065647740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083450031181648379",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "殉情的本质不是因为真的有多爱，而是通过这份爱，意识到了人注定死路一条 。 https://t.co/W5NyY8MhQp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2083460310065647740",
+        "created_at": "2026-08-01T07:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083460310065647740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rxdruglab/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/rxdruglab/status/2083450031181648379",
+              "start": 37,
+              "url": "https://t.co/W5NyY8MhQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083460310065647740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083450031181648379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "殉情的本质不是因为真的有多爱，而是通过这份爱，意识到了人注定死路一条 。 https://t.co/W5NyY8MhQp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2083450031181648379",
+        "created_at": "2026-08-01T07:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083450031181648379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yantanzhang/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yantanzhang/status/2083334895590355432",
+              "start": 24,
+              "url": "https://t.co/xaQEYqWxQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083450031181648379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 546,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083334895590355432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“愿意为你去死”不是因为爱的深，而是因为命贱。 https://t.co/xaQEYqWxQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5580,
+          "following_count": 66,
+          "like_count": 518,
+          "listed_count": 12,
+          "media_count": 30,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20158,
+          "following_count": 16,
+          "like_count": 26,
+          "listed_count": 24,
+          "media_count": 61,
+          "tweet_count": 1887
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

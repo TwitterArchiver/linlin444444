@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959011232541024256",
+        "3_1959011233518297092",
+        "3_1959011232528392192",
+        "3_1959011232469721090"
+      ],
+      "media_source_tweet_id": [
+        "1959011279626240060",
+        "1959011279626240060",
+        "1959011279626240060",
+        "1959011279626240060"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1959146354053456138",
+    "created_at": "2025-08-23T06:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T07:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959146354053456138"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 82,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 96,
+          "start": 92,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "门槛"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "援交"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1775557501016297472",
+          "start": 3,
+          "username": "Ayanami090130"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f5S86cdd7s",
+          "end": 132,
+          "expanded_url": "https://x.com/Ayanami090130/status/1959011279626240060/photo/1",
+          "media_key": "3_1959011232541024256",
+          "start": 109,
+          "url": "https://t.co/f5S86cdd7s"
+        },
+        {
+          "display_url": "pic.x.com/f5S86cdd7s",
+          "end": 132,
+          "expanded_url": "https://x.com/Ayanami090130/status/1959011279626240060/photo/1",
+          "media_key": "3_1959011233518297092",
+          "start": 109,
+          "url": "https://t.co/f5S86cdd7s"
+        },
+        {
+          "display_url": "pic.x.com/f5S86cdd7s",
+          "end": 132,
+          "expanded_url": "https://x.com/Ayanami090130/status/1959011279626240060/photo/1",
+          "media_key": "3_1959011232528392192",
+          "start": 109,
+          "url": "https://t.co/f5S86cdd7s"
+        },
+        {
+          "display_url": "pic.x.com/f5S86cdd7s",
+          "end": 132,
+          "expanded_url": "https://x.com/Ayanami090130/status/1959011279626240060/photo/1",
+          "media_key": "3_1959011232469721090",
+          "start": 109,
+          "url": "https://t.co/f5S86cdd7s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959146354053456138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959011279626240060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayanami090130: 接沈阳线下纯绿/半绿援交(可以出c)🚪纯绿60半绿188 过门可主动聊天聊骚 想要什么照片可以拍 呃呃呃我真的需要钱让我活下 #妈妈活 #爸爸活 #门槛妹 #门槛 #援交 #线下 https://t.co/f5S86cdd7s"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1959146354053456138].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1959146354053456138",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1959146354053456138"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959011232541024256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy_OVjKboAAuutO.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959011233518297092",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy_OVmzboAQ80KF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959011232528392192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy_OVjHa4AARih-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959011232469721090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy_OVi5boAI1_oF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959011232541024256",
+            "3_1959011233518297092",
+            "3_1959011232528392192",
+            "3_1959011232469721090"
+          ]
+        },
+        "author_id": "1775557501016297472",
+        "conversation_id": "1959011279626240060",
+        "created_at": "2025-08-22T21:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T22:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959011279626240060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "门槛"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "援交"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5S86cdd7s",
+              "end": 113,
+              "expanded_url": "https://x.com/Ayanami090130/status/1959011279626240060/photo/1",
+              "media_key": "3_1959011232541024256",
+              "start": 90,
+              "url": "https://t.co/f5S86cdd7s"
+            },
+            {
+              "display_url": "pic.x.com/f5S86cdd7s",
+              "end": 113,
+              "expanded_url": "https://x.com/Ayanami090130/status/1959011279626240060/photo/1",
+              "media_key": "3_1959011233518297092",
+              "start": 90,
+              "url": "https://t.co/f5S86cdd7s"
+            },
+            {
+              "display_url": "pic.x.com/f5S86cdd7s",
+              "end": 113,
+              "expanded_url": "https://x.com/Ayanami090130/status/1959011279626240060/photo/1",
+              "media_key": "3_1959011232528392192",
+              "start": 90,
+              "url": "https://t.co/f5S86cdd7s"
+            },
+            {
+              "display_url": "pic.x.com/f5S86cdd7s",
+              "end": 113,
+              "expanded_url": "https://x.com/Ayanami090130/status/1959011279626240060/photo/1",
+              "media_key": "3_1959011232469721090",
+              "start": 90,
+              "url": "https://t.co/f5S86cdd7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959011279626240060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1217,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "接沈阳线下纯绿/半绿援交(可以出c)🚪纯绿60半绿188 过门可主动聊天聊骚 想要什么照片可以拍 呃呃呃我真的需要钱让我活下 #妈妈活 #爸爸活 #门槛妹 #门槛 #援交 #线下 https://t.co/f5S86cdd7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5450,
+          "following_count": 68,
+          "like_count": 353,
+          "listed_count": 10,
+          "media_count": 27,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T16:14:47.000Z",
+        "description": "叫我程程或者程少就好！09 性别薯条（加盐版）每天喜欢高强度od 私聊赞赏码 把推当日记发 偶尔出cos🚪60求溺爱（私信找我要收款码) 唯一墙内抖音账号：29279972457（其他都是盗图哦）",
+        "id": "1775557501016297472",
+        "location": "Taiwan",
+        "name": "一生当小三的命苦小cc",
+        "pinned_tweet_id": "1959011279626240060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915991324949680130/rlU7Qwq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 72,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 366
+        },
+        "username": "Ayanami090130",
+        "verified": false
+      }
+    ]
+  }
+}

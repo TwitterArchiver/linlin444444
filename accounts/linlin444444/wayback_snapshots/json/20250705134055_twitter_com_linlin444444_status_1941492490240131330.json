@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1941339021025911082",
+    "created_at": "2025-07-05T13:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941492490240131330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1873783826755051530",
+          "start": 0,
+          "username": "64uNGufxaW19366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941492490240131330",
+    "in_reply_to_user_id": "1873783826755051530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941365750566109618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@64uNGufxaW19366 我就是狗汪汪汪汪谁要养我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1941339021025911082",
+        "created_at": "2025-07-05T13:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941492490240131330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1873783826755051530",
+              "start": 0,
+              "username": "64uNGufxaW19366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941492490240131330",
+        "in_reply_to_user_id": "1873783826755051530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941365750566109618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@64uNGufxaW19366 我就是狗汪汪汪汪谁要养我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873783826755051530",
+        "conversation_id": "1941339021025911082",
+        "created_at": "2025-07-05T05:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941365750566109618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941365750566109618",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941339021025911082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 如果拿来宠，干嘛不养条狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物圈科普系第一个地雷女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 86,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 63,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5213,
+          "following_count": 65,
+          "like_count": 399,
+          "listed_count": 10,
+          "media_count": 20,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T17:31:00.000Z",
+        "description": "汉民族万岁，汉人与俄罗斯人同病相怜，世界所有的主体民族都应该团结起来，对抗左派对主体民族的消亡行为！",
+        "id": "1873783826755051530",
+        "location": "Hong Kong",
+        "name": "高尔察克🇷🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881412646597271553/gL3Dt-Qr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 53,
+          "like_count": 4904,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1108
+        },
+        "username": "64uNGufxaW19366",
+        "verified": false
+      }
+    ]
+  }
+}

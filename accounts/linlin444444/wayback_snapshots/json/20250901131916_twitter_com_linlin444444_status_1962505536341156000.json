@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1962148539464929415",
+    "created_at": "2025-09-01T13:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T14:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962505536341156000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "622036546",
+          "start": 0,
+          "username": "oder_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962505536341156000",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962148539464929415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oder_666 你有没有定期肝肾功呢，我从开始欧迪每年两次肝肾功和电解质检查，怕死就别o或者定期体检"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1962148539464929415",
+        "created_at": "2025-09-01T13:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962505536341156000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "622036546",
+              "start": 0,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962505536341156000",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962148539464929415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oder_666 你有没有定期肝肾功呢，我从开始欧迪每年两次肝肾功和电解质检查，怕死就别o或者定期体检"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1962148539464929415",
+        "created_at": "2025-08-31T13:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T14:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962148539464929415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962148539464929415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2702,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天上厕所发现我的尿液中带有泡沫迟迟无法消散(蛋白尿）这是肾衰竭早期的信号之一肾衰竭的早期信号分为多个症状 如乏力 水肿 血压升高 腰酸背痛 睡眠障碍 食欲减退 尿液异常（如蛋白尿 尿量减少 尿色改变）如果发现请停止继续滥用药物 od的尽头是尿毒症 害人害己 拒绝od 从我做起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 66,
+          "like_count": 363,
+          "listed_count": 10,
+          "media_count": 27,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|精神病|偶尔性发电|欢迎互fo| 可以叫我Muno|中文名是無能🥰 我的互关可以找我扩列 LGBTQ🏳️‍🌈/mtf/ftm🏳️‍⚧️友好",
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962263595401760768/LXXU7WO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 177,
+          "like_count": 5794,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1329
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

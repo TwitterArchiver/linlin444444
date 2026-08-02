@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982337966400831488"
+      ],
+      "media_source_tweet_id": [
+        "1982338812606140783"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1982431930629947812",
+    "created_at": "2025-10-26T12:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T13:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982431930629947812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614594152062406656",
+          "start": 3,
+          "username": "fnggnjn1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oGdG1bu4JZ",
+          "end": 138,
+          "expanded_url": "https://x.com/fnggnjn1/status/1982338812606140783/photo/1",
+          "media_key": "3_1982337966400831488",
+          "start": 115,
+          "url": "https://t.co/oGdG1bu4JZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982431930629947812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982338812606140783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fnggnjn1: 误人子弟老师显然是不懂色胺的深层逻辑\n色胺向4位成环会增强活性，而向二位成六元环会降低活性，至于五元环，会消除绝大多数活性（但会带来阿片活性）图示分子亦不存在吲哚骨架，随便看到篇文献就上来叭叭的死装哥 https://t.co/oGdG1bu4JZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1982337966400831488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Kt4KgXgAAUfNT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982337966400831488"
+          ],
+          "media_source_tweet_id": [
+            "1982338812606140783"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1982431930629947812",
+        "created_at": "2025-10-26T12:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982431930629947812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614594152062406656",
+              "start": 3,
+              "username": "fnggnjn1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGdG1bu4JZ",
+              "end": 138,
+              "expanded_url": "https://x.com/fnggnjn1/status/1982338812606140783/photo/1",
+              "media_key": "3_1982337966400831488",
+              "start": 115,
+              "url": "https://t.co/oGdG1bu4JZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982431930629947812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982338812606140783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fnggnjn1: 误人子弟老师显然是不懂色胺的深层逻辑\n色胺向4位成环会增强活性，而向二位成六元环会降低活性，至于五元环，会消除绝大多数活性（但会带来阿片活性）图示分子亦不存在吲哚骨架，随便看到篇文献就上来叭叭的死装哥 https://t.co/oGdG1bu4JZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982337966400831488"
+          ]
+        },
+        "author_id": "1614594152062406656",
+        "conversation_id": "1982338812606140783",
+        "created_at": "2025-10-26T06:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T07:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982338812606140783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGdG1bu4JZ",
+              "end": 124,
+              "expanded_url": "https://x.com/fnggnjn1/status/1982338812606140783/photo/1",
+              "media_key": "3_1982337966400831488",
+              "start": 101,
+              "url": "https://t.co/oGdG1bu4JZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982338812606140783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 583,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "误人子弟老师显然是不懂色胺的深层逻辑\n色胺向4位成环会增强活性，而向二位成六元环会降低活性，至于五元环，会消除绝大多数活性（但会带来阿片活性）图示分子亦不存在吲哚骨架，随便看到篇文献就上来叭叭的死装哥 https://t.co/oGdG1bu4JZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5524,
+          "following_count": 66,
+          "like_count": 311,
+          "listed_count": 11,
+          "media_count": 25,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化药设研究者 物种：蛆 可以叫我蛆老师 提供用药及药理咨询（不包括任何已列管毒品！） 蛆蛆要涨粉🥺🥺🥺 不推荐任何人使用我提到的药品",
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium⌬",
+        "pinned_tweet_id": "1919232126148362586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 58,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 764
+        },
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990091209403252736"
+      ],
+      "media_source_tweet_id": [
+        "1990091711750832628"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1991248728393417107",
+    "created_at": "2025-11-19T20:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T21:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991248728393417107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "937460143910014976",
+          "start": 3,
+          "username": "Someonesxiaohao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kzKocMDZkf",
+          "end": 69,
+          "expanded_url": "https://x.com/Someonesxiaohao/status/1990091711750832628/photo/1",
+          "media_key": "3_1990091209403252736",
+          "start": 46,
+          "url": "https://t.co/kzKocMDZkf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991248728393417107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990091711750832628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Someonesxiaohao: 继续卖一波，这波卖完大概率半年以上不会继续卖了。 https://t.co/kzKocMDZkf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_1990091209403252736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G545aTcbwAA4--L.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990091209403252736"
+          ],
+          "media_source_tweet_id": [
+            "1990091711750832628"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1991248728393417107",
+        "created_at": "2025-11-19T20:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T21:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991248728393417107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "937460143910014976",
+              "start": 3,
+              "username": "Someonesxiaohao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzKocMDZkf",
+              "end": 69,
+              "expanded_url": "https://x.com/Someonesxiaohao/status/1990091711750832628/photo/1",
+              "media_key": "3_1990091209403252736",
+              "start": 46,
+              "url": "https://t.co/kzKocMDZkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991248728393417107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990091711750832628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Someonesxiaohao: 继续卖一波，这波卖完大概率半年以上不会继续卖了。 https://t.co/kzKocMDZkf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990091209403252736"
+          ]
+        },
+        "author_id": "937460143910014976",
+        "conversation_id": "1990091711750832628",
+        "created_at": "2025-11-16T16:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990091711750832628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzKocMDZkf",
+              "end": 48,
+              "expanded_url": "https://x.com/Someonesxiaohao/status/1990091711750832628/photo/1",
+              "media_key": "3_1990091209403252736",
+              "start": 25,
+              "url": "https://t.co/kzKocMDZkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990091711750832628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9819,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "继续卖一波，这波卖完大概率半年以上不会继续卖了。 https://t.co/kzKocMDZkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5881,
+          "following_count": 66,
+          "like_count": 324,
+          "listed_count": 13,
+          "media_count": 28,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-03T23:14:50.000Z",
+        "description": "有购买需求的可以关注。\n防失联可以加主号置顶的telegram频道。",
+        "id": "937460143910014976",
+        "name": "药室销售频道",
+        "pinned_tweet_id": "1880527578190233681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891884010948726791/HCvyKg8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "username": "Someonesxiaohao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2021295775461044394",
+    "created_at": "2026-02-10T18:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T19:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021295775461044394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iristy_oxo/sta…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/iristy_oxo/status/2021149891704037752",
+          "start": 88,
+          "url": "https://t.co/OGAhF4099B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021295775461044394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021149891704037752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操，我发现我根本就没有延续关系的能力，只要对方一天不主动找我 ，我和对方的聊天就会立马断掉 、因为我根本不知道主动说什么，只会问一句，答一句，我感觉我需要有人先走一步的关系 https://t.co/OGAhF4099B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2021295775461044394",
+        "created_at": "2026-02-10T18:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T19:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021295775461044394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iristy_oxo/sta…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/iristy_oxo/status/2021149891704037752",
+              "start": 88,
+              "url": "https://t.co/OGAhF4099B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021295775461044394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021149891704037752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操，我发现我根本就没有延续关系的能力，只要对方一天不主动找我 ，我和对方的聊天就会立马断掉 、因为我根本不知道主动说什么，只会问一句，答一句，我感觉我需要有人先走一步的关系 https://t.co/OGAhF4099B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766467973555052544",
+        "conversation_id": "2021149891704037752",
+        "created_at": "2026-02-10T09:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T10:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021149891704037752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bjimn267219/st…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/bjimn267219/status/2020449579460649214",
+              "start": 88,
+              "url": "https://t.co/UwXe6iUYQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021149891704037752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1386,
+          "like_count": 28,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020449579460649214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操，我发现我根本就没有延续关系的能力，只要对方一天不主动找我 ，我和对方的聊天就会立马断掉 、因为我根本不知道主动说什么，只会问一句，答一句，我感觉我需要有人先走一步的关系 https://t.co/UwXe6iUYQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5678,
+          "following_count": 61,
+          "like_count": 337,
+          "listed_count": 12,
+          "media_count": 27,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T14:16:15.000Z",
+        "description": "只是一片自留地。祝你过得开心，我的朋友。 女孩请随意私信，我们说些小小的、不必那么滴水不漏令你疲惫的话。One who gets burned still tries to love fire.",
+        "id": "1766467973555052544",
+        "location": "Neverland",
+        "name": "情绪盒子",
+        "pinned_tweet_id": "1915031688775909480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004619011607461895/eVPOXC3C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 179,
+          "like_count": 16740,
+          "listed_count": 4,
+          "media_count": 937,
+          "tweet_count": 4119
+        },
+        "username": "Iristy_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

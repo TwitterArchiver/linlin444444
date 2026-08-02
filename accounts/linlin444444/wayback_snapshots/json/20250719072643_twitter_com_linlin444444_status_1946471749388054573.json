@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1946471749388054573",
+    "created_at": "2025-07-19T07:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T08:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946471749388054573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuanyishiannin…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yuanyishianning/status/1946146630564299047",
+          "start": 12,
+          "url": "https://t.co/0CZFiZcUcj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946471749388054573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946146630564299047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢你对我的这个评价 https://t.co/0CZFiZcUcj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1946471749388054573",
+        "created_at": "2025-07-19T07:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946471749388054573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuanyishiannin…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yuanyishianning/status/1946146630564299047",
+              "start": 12,
+              "url": "https://t.co/0CZFiZcUcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946471749388054573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946146630564299047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢你对我的这个评价 https://t.co/0CZFiZcUcj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226820902710497281",
+        "conversation_id": "1946077415698219256",
+        "created_at": "2025-07-18T09:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946146630564299047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946146630564299047",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 625,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946077415698219256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 正常人里最沉沦的，精神病里最清醒的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5301,
+          "following_count": 67,
+          "like_count": 421,
+          "listed_count": 10,
+          "media_count": 21,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T10:51:23.000Z",
+        "description": "想养只小狗！00后国企混子",
+        "id": "1226820902710497281",
+        "name": "安宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315356943586738178/yGL6QnLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 1099,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 473
+        },
+        "username": "yuanyishianning",
+        "verified": false
+      }
+    ]
+  }
+}

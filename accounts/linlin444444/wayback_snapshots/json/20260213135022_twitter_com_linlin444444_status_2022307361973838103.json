@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2022307361973838103",
+    "created_at": "2026-02-13T13:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T14:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022307361973838103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1199138410704715776",
+          "start": 3,
+          "username": "L_R_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022307361973838103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022152194003546566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L_R_001: 中文推给我最大乐趣的时候是每天看别人OD，批判原生家庭，互相背刺，然后莫名其妙的原谅又一起玩，还有痛苦滋生的灵感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2022307361973838103",
+        "created_at": "2026-02-13T13:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022307361973838103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1199138410704715776",
+              "start": 3,
+              "username": "L_R_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022307361973838103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022152194003546566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L_R_001: 中文推给我最大乐趣的时候是每天看别人OD，批判原生家庭，互相背刺，然后莫名其妙的原谅又一起玩，还有痛苦滋生的灵感。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199138410704715776",
+        "conversation_id": "2022152194003546566",
+        "created_at": "2026-02-13T03:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022152194003546566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022152194003546566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中文推给我最大乐趣的时候是每天看别人OD，批判原生家庭，互相背刺，然后莫名其妙的原谅又一起玩，还有痛苦滋生的灵感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5673,
+          "following_count": 60,
+          "like_count": 338,
+          "listed_count": 12,
+          "media_count": 28,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "/实验室研究员/摄影 日语 读书 写作/\n/computer scientist/web security/",
+        "id": "1199138410704715776",
+        "name": "漂亮鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934945989103616/iXjq20eI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 743,
+          "like_count": 5166,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 3767
+        },
+        "username": "L_R_001",
+        "verified": true
+      }
+    ]
+  }
+}

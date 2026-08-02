@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1935740630757515264"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1935740711045108097",
+    "created_at": "2025-06-19T16:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T17:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935740711045108097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6bUscw1pkS",
+          "end": 55,
+          "expanded_url": "https://x.com/linlin444444/status/1935740711045108097/video/1",
+          "media_key": "13_1935740630757515264",
+          "start": 32,
+          "url": "https://t.co/6bUscw1pkS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935740711045108097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我无法把她想的太坏 因为她想要的只是钱和爱 再坏的目的我想不到 https://t.co/6bUscw1pkS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8596,
+        "height": 960,
+        "media_key": "13_1935740630757515264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935740630757515264/img/mLCSonqt8gUtSelS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935740630757515264/vid/avc1/320x426/51EmsFYFpF1C30wF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935740630757515264/vid/avc1/480x640/4lp4YF3RF2F-w1rE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935740630757515264/vid/avc1/720x960/KKJOTJnGHFhjfaJn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935740630757515264/pl/vafxDcNsX5Pk4jr7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935740630757515264"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1935740711045108097",
+        "created_at": "2025-06-19T16:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935740711045108097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bUscw1pkS",
+              "end": 55,
+              "expanded_url": "https://x.com/linlin444444/status/1935740711045108097/video/1",
+              "media_key": "13_1935740630757515264",
+              "start": 32,
+              "url": "https://t.co/6bUscw1pkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935740711045108097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我无法把她想的太坏 因为她想要的只是钱和爱 再坏的目的我想不到 https://t.co/6bUscw1pkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5150,
+          "following_count": 59,
+          "like_count": 356,
+          "listed_count": 10,
+          "media_count": 23,
+          "tweet_count": 42
+        },
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

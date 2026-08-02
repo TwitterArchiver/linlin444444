@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1932376068427804734",
+    "created_at": "2025-06-10T09:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T10:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932376068427804734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tinker_morph0/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/tinker_morph0/status/1932106288542208351",
+          "start": 24,
+          "url": "https://t.co/OnoKYoUpon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932376068427804734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932106288542208351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没喝茶没警告家里人也不知道，纯属自己不想混圈了 https://t.co/OnoKYoUpon"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1932376068427804734",
+        "created_at": "2025-06-10T09:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T10:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932376068427804734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tinker_morph0/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/tinker_morph0/status/1932106288542208351",
+              "start": 24,
+              "url": "https://t.co/OnoKYoUpon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932376068427804734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932106288542208351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没喝茶没警告家里人也不知道，纯属自己不想混圈了 https://t.co/OnoKYoUpon"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "852476611559542784",
+        "conversation_id": "1932092518465994832",
+        "created_at": "2025-06-09T16:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T17:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932106288542208351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932106288542208351",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932092518465994832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 不是被喝茶了吧，这么突然"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5098,
+          "following_count": 62,
+          "like_count": 308,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 38
+        },
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-13T11:00:37.000Z",
+        "description": "",
+        "id": "852476611559542784",
+        "name": "Dec",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1477381858212347904/3pVxrMR8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 219,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "tinker_morph0",
+        "verified": false
+      }
+    ]
+  }
+}

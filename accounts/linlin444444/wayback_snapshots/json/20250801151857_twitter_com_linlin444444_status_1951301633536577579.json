@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1951119997075632578",
+    "created_at": "2025-08-01T15:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T16:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951301633536577579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "378340116",
+          "start": 0,
+          "username": "4_ACO_DMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951301633536577579",
+    "in_reply_to_user_id": "378340116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951119997075632578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4_ACO_DMT 正支持的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1951119997075632578",
+        "created_at": "2025-08-01T15:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951301633536577579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "378340116",
+              "start": 0,
+              "username": "4_ACO_DMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951301633536577579",
+        "in_reply_to_user_id": "378340116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951119997075632578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_ACO_DMT 正支持的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "378340116",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1951119997075632578",
+        "created_at": "2025-08-01T03:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T04:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951119997075632578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951119997075632578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 349,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "15岁就是抽烟喝酒化学极乐打炮的好年纪，什么上学简直就是浪费生命浪费青春"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5315,
+          "following_count": 67,
+          "like_count": 320,
+          "listed_count": 10,
+          "media_count": 26,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-23T01:31:13.000Z",
+        "description": "官方频道:https://t.co/4Y3ulxdmkY\n交流群:https://t.co/GZgym7JggD\n官网:https://t.co/uonljQLDCL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/overdose_dxm",
+                "end": 28,
+                "expanded_url": "https://t.me/overdose_dxm",
+                "start": 5,
+                "url": "https://t.co/4Y3ulxdmkY"
+              },
+              {
+                "display_url": "discord.gg/Wv8mZ5gt",
+                "end": 56,
+                "expanded_url": "https://discord.gg/Wv8mZ5gt",
+                "start": 33,
+                "url": "https://t.co/GZgym7JggD"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 83,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 60,
+                "url": "https://t.co/uonljQLDCL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/uonljQLDCL"
+              }
+            ]
+          }
+        },
+        "id": "378340116",
+        "location": "✝️天国 ✝️",
+        "name": "✝️化学极乐百科✝️",
+        "pinned_tweet_id": "1942466107518116200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942454408991891456/6UbN_3JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 356,
+          "like_count": 113,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/uonljQLDCL",
+        "username": "4_ACO_DMT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932495733812584448"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1932495741479760276",
+    "created_at": "2025-06-10T17:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T18:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932495741479760276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MlPtfbHQ1e",
+          "end": 105,
+          "expanded_url": "https://x.com/linlin444444/status/1932495741479760276/photo/1",
+          "media_key": "3_1932495733812584448",
+          "start": 82,
+          "url": "https://t.co/MlPtfbHQ1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932495741479760276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很需要钱，交了下个月一个周期的精卫住院钱，十五号要交房租，如果交完房租身上剩的钱都不够到开始住院的。不是卖惨，我是黄推，可以给你发图包和平时的涩情照片给你优先看 https://t.co/MlPtfbHQ1e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932495733812584448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtGaoY_bYAAd6ZM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932495733812584448"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1932495741479760276",
+        "created_at": "2025-06-10T17:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T18:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932495741479760276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlPtfbHQ1e",
+              "end": 105,
+              "expanded_url": "https://x.com/linlin444444/status/1932495741479760276/photo/1",
+              "media_key": "3_1932495733812584448",
+              "start": 82,
+              "url": "https://t.co/MlPtfbHQ1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932495741479760276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很需要钱，交了下个月一个周期的精卫住院钱，十五号要交房租，如果交完房租身上剩的钱都不够到开始住院的。不是卖惨，我是黄推，可以给你发图包和平时的涩情照片给你优先看 https://t.co/MlPtfbHQ1e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5105,
+          "following_count": 62,
+          "like_count": 312,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 39
+        },
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1992889626902892777",
+    "created_at": "2025-11-24T09:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T10:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992889626902892777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1783797146694934528",
+          "start": 3,
+          "username": "linanxxxx04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992889626902892777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992889535785755080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linanxxxx04: 开了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1992889626902892777",
+        "created_at": "2025-11-24T09:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992889626902892777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1783797146694934528",
+              "start": 3,
+              "username": "linanxxxx04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992889626902892777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992889535785755080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linanxxxx04: 开了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783797146694934528",
+        "conversation_id": "1992889535785755080",
+        "created_at": "2025-11-24T09:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992889535785755080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overspring_wik…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/overspring_wiki/status/1989628357081010426",
+              "start": 4,
+              "url": "https://t.co/A5TrfKkIln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992889535785755080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989628357081010426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开了。 https://t.co/A5TrfKkIln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5866,
+          "following_count": 67,
+          "like_count": 327,
+          "listed_count": 13,
+          "media_count": 28,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T09:56:05.000Z",
+        "description": "本账号为Rxwiki官方账号 为wiki主 主编 两人管理。官方账号：https://t.co/Zz5YDaeENa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 58,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 35,
+                "url": "https://t.co/Zz5YDaeENa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 0,
+                "url": "https://t.co/Zz5YDaeENa"
+              }
+            ]
+          }
+        },
+        "id": "1783797146694934528",
+        "name": "RxLL wiki",
+        "pinned_tweet_id": "1937268338083926125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984574512952684545/N9pz8K6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 14,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/Zz5YDaeENa",
+        "username": "linanxxxx04",
+        "verified": false
+      }
+    ]
+  }
+}

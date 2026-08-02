@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2068838455099203695",
+    "created_at": "2026-06-21T23:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T00:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068838455099203695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 48,
+          "id": "3022697779",
+          "start": 38,
+          "username": "RXdruglab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/linlin444444/s…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/linlin444444/status/2068838311482020295",
+          "start": 68,
+          "url": "https://t.co/BTNKeVOkVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068838455099203695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068838311482020295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有想发表的对于药物科普的帖子，但我的语言很乱，不知道该怎么表达，已经把想法和@RXdruglab 说了，希望他能替我表达我预想的科普。 https://t.co/BTNKeVOkVF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2068838455099203695",
+        "created_at": "2026-06-21T23:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068838455099203695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "3022697779",
+              "start": 38,
+              "username": "RXdruglab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/linlin444444/s…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/linlin444444/status/2068838311482020295",
+              "start": 68,
+              "url": "https://t.co/BTNKeVOkVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068838455099203695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068838311482020295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有想发表的对于药物科普的帖子，但我的语言很乱，不知道该怎么表达，已经把想法和@RXdruglab 说了，希望他能替我表达我预想的科普。 https://t.co/BTNKeVOkVF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2068838311482020295",
+        "created_at": "2026-06-21T23:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068838311482020295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068838311482020295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天发生了不在我对于生活规划之内的事情，事情已经半解决，但这件事让我内耗焦虑的厉害，我不知道该怎么去面对和接受，睡眠质量严重下降，睡着睡着就醒，四小时的睡眠醒五次。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5530,
+          "following_count": 56,
+          "like_count": 394,
+          "listed_count": 12,
+          "media_count": 24,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19548,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

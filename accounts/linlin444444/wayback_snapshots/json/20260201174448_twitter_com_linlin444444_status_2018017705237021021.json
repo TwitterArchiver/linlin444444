@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017997140828811265"
+      ],
+      "media_source_tweet_id": [
+        "2017997161808724365"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "2018017705237021021",
+    "created_at": "2026-02-01T17:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T18:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018017705237021021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "488823839",
+          "start": 3,
+          "username": "taikongjile000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FRA2impSGN",
+          "end": 68,
+          "expanded_url": "https://x.com/taikongjile000/status/2017997161808724365/photo/1",
+          "media_key": "3_2017997140828811265",
+          "start": 45,
+          "url": "https://t.co/FRA2impSGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018017705237021021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017997161808724365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile000: 策划药鸡尘现在预售\n需要的联系 大好玩\n独家配方 https://t.co/FRA2impSGN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2017997140828811265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFdtTDa8AEQCpn.jpg",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017997140828811265"
+          ],
+          "media_source_tweet_id": [
+            "2017997161808724365"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "2018017705237021021",
+        "created_at": "2026-02-01T17:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T18:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018017705237021021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "488823839",
+              "start": 3,
+              "username": "taikongjile000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRA2impSGN",
+              "end": 68,
+              "expanded_url": "https://x.com/taikongjile000/status/2017997161808724365/photo/1",
+              "media_key": "3_2017997140828811265",
+              "start": 45,
+              "url": "https://t.co/FRA2impSGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018017705237021021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017997161808724365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taikongjile000: 策划药鸡尘现在预售\n需要的联系 大好玩\n独家配方 https://t.co/FRA2impSGN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017997140828811265"
+          ]
+        },
+        "author_id": "488823839",
+        "conversation_id": "2017997161808724365",
+        "created_at": "2026-02-01T16:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017997161808724365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRA2impSGN",
+              "end": 48,
+              "expanded_url": "https://x.com/taikongjile000/status/2017997161808724365/photo/1",
+              "media_key": "3_2017997140828811265",
+              "start": 25,
+              "url": "https://t.co/FRA2impSGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017997161808724365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 298,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "策划药鸡尘现在预售\n需要的联系 大好玩\n独家配方 https://t.co/FRA2impSGN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5700,
+          "following_count": 59,
+          "like_count": 332,
+          "listed_count": 12,
+          "media_count": 27,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "上海市禁毒委托上海司法鉴定中心已对本人多批次产品检验合规。本人不向买家销售不符合当地法律法规的化学品，也没有税务问题，请DEA/FDA/IRS不要在本人身上浪费\n官网：https://t.co/yJOEtw5Bi3\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 140,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 107,
+                "expanded_url": "https://taikong.mom/",
+                "start": 84,
+                "url": "https://t.co/yJOEtw5Bi3"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 135,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 112,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom/",
+                "start": 0,
+                "url": "https://t.co/yJOEtw5Bi3"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2017190056562422104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 217,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/yJOEtw5Bi3",
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

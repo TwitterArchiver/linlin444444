@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2080471107665355187",
+    "created_at": "2026-07-24T03:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080495129207640424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1094972463736385537",
+          "start": 0,
+          "username": "GalaxyBar8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080495129207640424",
+    "in_reply_to_user_id": "1094972463736385537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080494754165665895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GalaxyBar8 一年前，现在摘了但恢复不了了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2080471107665355187",
+        "created_at": "2026-07-24T03:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080495129207640424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1094972463736385537",
+              "start": 0,
+              "username": "GalaxyBar8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080495129207640424",
+        "in_reply_to_user_id": "1094972463736385537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080494754165665895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GalaxyBar8 一年前，现在摘了但恢复不了了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094972463736385537",
+        "conversation_id": "2080471107665355187",
+        "created_at": "2026-07-24T03:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080494754165665895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080494754165665895",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080471107665355187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 才打的乳钉吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5575,
+          "following_count": 65,
+          "like_count": 471,
+          "listed_count": 13,
+          "media_count": 28,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-11T14:52:33.000Z",
+        "description": "圈龄19年，收奴18+                                                      \n               乳钉控/疼痛快感/穿刺艺术/绳/拒绝永久性伤害。\n爱奴 @yuka_nonicebody",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 109,
+                "username": "yuka_nonicebody"
+              }
+            ]
+          }
+        },
+        "id": "1094972463736385537",
+        "location": "Georgia, USA",
+        "name": "GalaxyBar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1094978906799644673/Quz8f0qU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42917,
+          "following_count": 1634,
+          "like_count": 95,
+          "listed_count": 126,
+          "media_count": 50,
+          "tweet_count": 1036
+        },
+        "url": "",
+        "username": "GalaxyBar8",
+        "verified": false
+      }
+    ]
+  }
+}

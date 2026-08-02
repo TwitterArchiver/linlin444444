@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1950665552277684532",
+    "created_at": "2025-07-30T21:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T22:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950665552277684532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950665552277684532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我擦 自残？！冷静啊，姑娘，人生的不如意，有十之八九，千万不要想不开呀，自残是愚蠢的行为呀，要知道，自残有风险啊！人体内的血管被划破了大出血几分钟就会死，否则输血救不回来的呀！有什么想不开的吗，可以找我倾诉，自残什么的很可怕的，不要再这样做了，我会帮助你的，对了，可以看看下面吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1950665552277684532",
+        "created_at": "2025-07-30T21:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T22:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950665552277684532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950665552277684532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我擦 自残？！冷静啊，姑娘，人生的不如意，有十之八九，千万不要想不开呀，自残是愚蠢的行为呀，要知道，自残有风险啊！人体内的血管被划破了大出血几分钟就会死，否则输血救不回来的呀！有什么想不开的吗，可以找我倾诉，自残什么的很可怕的，不要再这样做了，我会帮助你的，对了，可以看看下面吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5317,
+          "following_count": 67,
+          "like_count": 318,
+          "listed_count": 10,
+          "media_count": 27,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

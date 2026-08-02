@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024040998192701440"
+      ],
+      "media_source_tweet_id": [
+        "2024041358902653294"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "2024082244441083905",
+    "created_at": "2026-02-18T11:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T12:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024082244441083905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2226994771",
+          "start": 3,
+          "username": "Druglab_Store"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wgqd2FogN1",
+          "end": 53,
+          "expanded_url": "https://x.com/Druglab_Store/status/2024041358902653294/photo/1",
+          "media_key": "3_2024040998192701440",
+          "start": 30,
+          "url": "https://t.co/Wgqd2FogN1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024082244441083905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024041358902653294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Druglab_Store: 修改了一下内容重发。 https://t.co/Wgqd2FogN1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_2024040998192701440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbWkGQaYAAxv2D.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024040998192701440"
+          ],
+          "media_source_tweet_id": [
+            "2024041358902653294"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "2024082244441083905",
+        "created_at": "2026-02-18T11:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024082244441083905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2226994771",
+              "start": 3,
+              "username": "Druglab_Store"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wgqd2FogN1",
+              "end": 53,
+              "expanded_url": "https://x.com/Druglab_Store/status/2024041358902653294/photo/1",
+              "media_key": "3_2024040998192701440",
+              "start": 30,
+              "url": "https://t.co/Wgqd2FogN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024082244441083905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024041358902653294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Druglab_Store: 修改了一下内容重发。 https://t.co/Wgqd2FogN1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024040998192701440"
+          ]
+        },
+        "author_id": "2226994771",
+        "conversation_id": "2024041358902653294",
+        "created_at": "2026-02-18T08:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T09:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024041358902653294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wgqd2FogN1",
+              "end": 34,
+              "expanded_url": "https://x.com/Druglab_Store/status/2024041358902653294/photo/1",
+              "media_key": "3_2024040998192701440",
+              "start": 11,
+              "url": "https://t.co/Wgqd2FogN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024041358902653294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 649,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "修改了一下内容重发。 https://t.co/Wgqd2FogN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5677,
+          "following_count": 61,
+          "like_count": 340,
+          "listed_count": 12,
+          "media_count": 23,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-02T17:14:39.000Z",
+        "description": "药物实验室的卖货号",
+        "id": "2226994771",
+        "name": "药实销售频道",
+        "pinned_tweet_id": "2021681479080984936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021681186830200832/bzG6bnHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 153,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 56
+        },
+        "username": "Druglab_Store",
+        "verified": false
+      }
+    ]
+  }
+}

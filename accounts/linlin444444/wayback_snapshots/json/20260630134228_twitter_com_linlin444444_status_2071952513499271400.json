@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2071854467151286745",
+    "created_at": "2026-06-30T13:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071952513499271400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1756365700552433665",
+          "start": 0,
+          "username": "fub556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071952513499271400",
+    "in_reply_to_user_id": "1756365700552433665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071933696035225851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fub556 我的发言参考您的ID😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2071854467151286745",
+        "created_at": "2026-06-30T13:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071952513499271400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1756365700552433665",
+              "start": 0,
+              "username": "fub556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071952513499271400",
+        "in_reply_to_user_id": "1756365700552433665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071933696035225851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fub556 我的发言参考您的ID😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756365700552433665",
+        "conversation_id": "2071854467151286745",
+        "created_at": "2026-06-30T12:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071933696035225851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071933696035225851",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071854467151286745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 我感觉你也是个傻子像初中辍学混点圈，学了点词就用的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5545,
+          "following_count": 59,
+          "like_count": 408,
+          "listed_count": 12,
+          "media_count": 29,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T17:15:14.000Z",
+        "description": "",
+        "id": "1756365700552433665",
+        "name": "老子爱发啥发啥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044112269207056386/dahgOQau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 22,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "fub556",
+        "verified": false
+      }
+    ]
+  }
+}

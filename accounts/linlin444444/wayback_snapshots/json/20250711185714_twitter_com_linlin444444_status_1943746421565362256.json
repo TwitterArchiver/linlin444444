@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1943659145141387480",
+    "created_at": "2025-07-11T18:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T19:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943746421565362256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1199138410704715776",
+          "start": 0,
+          "username": "L_R_001"
+        },
+        {
+          "end": 21,
+          "id": "1783797146694934528",
+          "start": 9,
+          "username": "linanxxxx04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943746421565362256",
+    "in_reply_to_user_id": "1199138410704715776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943677907185943038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_R_001 @linanxxxx04 有意思，她暗恋你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1943659145141387480",
+        "created_at": "2025-07-11T18:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943746421565362256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1199138410704715776",
+              "start": 0,
+              "username": "L_R_001"
+            },
+            {
+              "end": 21,
+              "id": "1783797146694934528",
+              "start": 9,
+              "username": "linanxxxx04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943746421565362256",
+        "in_reply_to_user_id": "1199138410704715776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943677907185943038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_R_001 @linanxxxx04 有意思，她暗恋你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199138410704715776",
+        "conversation_id": "1943659145141387480",
+        "created_at": "2025-07-11T14:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T15:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943677907185943038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783797146694934528",
+              "start": 0,
+              "username": "linanxxxx04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943677907185943038",
+        "in_reply_to_user_id": "1783797146694934528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943659145141387480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linanxxxx04 有点像游戏里那个拿斧子追杀我五条街的NPC😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物圈科普系第一个地雷女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 86,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 63,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5258,
+          "following_count": 67,
+          "like_count": 414,
+          "listed_count": 10,
+          "media_count": 21,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "/网络安全/实验室研究员/摄影 日语 读书 写作 健身/",
+        "id": "1199138410704715776",
+        "location": "せかい",
+        "name": "另一只漂亮鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918642501352853505/p9QZSn7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 931,
+          "like_count": 3403,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2565
+        },
+        "username": "L_R_001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T09:56:05.000Z",
+        "description": "本账号为Rxwiki官方账号 为wiki主 主编 两人管理。官方账号：https://t.co/Zz5YDaeENa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 58,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 35,
+                "url": "https://t.co/Zz5YDaeENa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 0,
+                "url": "https://t.co/Zz5YDaeENa"
+              }
+            ]
+          }
+        },
+        "id": "1783797146694934528",
+        "name": "RxLL wiki",
+        "pinned_tweet_id": "1937268338083926125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937109790796185600/u1HQWotR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 11,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "url": "https://t.co/Zz5YDaeENa",
+        "username": "linanxxxx04",
+        "verified": false
+      }
+    ]
+  }
+}

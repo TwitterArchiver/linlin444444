@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960396363239448579",
+        "3_1960396363147173890"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1960396376971608320",
+    "created_at": "2025-08-26T17:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960396376971608320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uPWyLmZEDg",
+          "end": 113,
+          "expanded_url": "https://x.com/linlin444444/status/1960396376971608320/photo/1",
+          "media_key": "3_1960396363239448579",
+          "start": 90,
+          "url": "https://t.co/uPWyLmZEDg"
+        },
+        {
+          "display_url": "pic.x.com/uPWyLmZEDg",
+          "end": 113,
+          "expanded_url": "https://x.com/linlin444444/status/1960396376971608320/photo/1",
+          "media_key": "3_1960396363147173890",
+          "start": 90,
+          "url": "https://t.co/uPWyLmZEDg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960396376971608320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "血和泪留多了，自然就带出了病，病久了又带出了恨，恨的久了早就不知道该怪谁恨谁。\n\n只记得恨初出现时候的雏形由血泪凝聚成的易碎品，而后像滚雪球般越发夸张，夸张到不可控就成恨的开始。 https://t.co/uPWyLmZEDg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1641,
+        "media_key": "3_1960396363239448579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzS6GxHa4AMxS7I.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1576,
+        "media_key": "3_1960396363147173890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzS6Gwxa4AIeF5z.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960396363239448579",
+            "3_1960396363147173890"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1960396376971608320",
+        "created_at": "2025-08-26T17:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960396376971608320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPWyLmZEDg",
+              "end": 113,
+              "expanded_url": "https://x.com/linlin444444/status/1960396376971608320/photo/1",
+              "media_key": "3_1960396363239448579",
+              "start": 90,
+              "url": "https://t.co/uPWyLmZEDg"
+            },
+            {
+              "display_url": "pic.x.com/uPWyLmZEDg",
+              "end": 113,
+              "expanded_url": "https://x.com/linlin444444/status/1960396376971608320/photo/1",
+              "media_key": "3_1960396363147173890",
+              "start": 90,
+              "url": "https://t.co/uPWyLmZEDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960396376971608320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "血和泪留多了，自然就带出了病，病久了又带出了恨，恨的久了早就不知道该怪谁恨谁。\n\n只记得恨初出现时候的雏形由血泪凝聚成的易碎品，而后像滚雪球般越发夸张，夸张到不可控就成恨的开始。 https://t.co/uPWyLmZEDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5451,
+          "following_count": 69,
+          "like_count": 355,
+          "listed_count": 10,
+          "media_count": 29,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

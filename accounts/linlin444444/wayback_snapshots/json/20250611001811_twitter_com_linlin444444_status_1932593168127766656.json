@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932500377553051649",
+        "3_1932500377645297665"
+      ],
+      "media_source_tweet_id": [
+        "1932500384687468671",
+        "1932500384687468671"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1932593168127766656",
+    "created_at": "2025-06-11T00:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T01:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932593168127766656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699445300950093824",
+          "start": 3,
+          "username": "linlin444444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f8mj9U7EIm",
+          "end": 138,
+          "expanded_url": "https://x.com/linlin444444/status/1932500384687468671/photo/1",
+          "media_key": "3_1932500377553051649",
+          "start": 115,
+          "url": "https://t.co/f8mj9U7EIm"
+        },
+        {
+          "display_url": "pic.x.com/f8mj9U7EIm",
+          "end": 138,
+          "expanded_url": "https://x.com/linlin444444/status/1932500384687468671/photo/1",
+          "media_key": "3_1932500377645297665",
+          "start": 115,
+          "url": "https://t.co/f8mj9U7EIm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932593168127766656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932500384687468671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linlin444444: 希望和我玩的好的宝宝帮忙转转，我很需要钱，交了下个月一个周期的精卫住院钱，十五号要交房租，如果交完房租身上剩的钱都不够到开始住院的。不是卖惨，我是黄推，可以给你发图包和平时的涩情照片给你优先看 https://t.co/f8mj9U7EIm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932593168127766656].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932593168127766656",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932593168127766656"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932500377553051649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtGe2sRboAE0UcP.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932500377645297665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtGe2snbMAEL71s.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932500377553051649",
+            "3_1932500377645297665"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1932500384687468671",
+        "created_at": "2025-06-10T18:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T19:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932500384687468671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8mj9U7EIm",
+              "end": 120,
+              "expanded_url": "https://x.com/linlin444444/status/1932500384687468671/photo/1",
+              "media_key": "3_1932500377553051649",
+              "start": 97,
+              "url": "https://t.co/f8mj9U7EIm"
+            },
+            {
+              "display_url": "pic.x.com/f8mj9U7EIm",
+              "end": 120,
+              "expanded_url": "https://x.com/linlin444444/status/1932500384687468671/photo/1",
+              "media_key": "3_1932500377645297665",
+              "start": 97,
+              "url": "https://t.co/f8mj9U7EIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932500384687468671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1340,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "希望和我玩的好的宝宝帮忙转转，我很需要钱，交了下个月一个周期的精卫住院钱，十五号要交房租，如果交完房租身上剩的钱都不够到开始住院的。不是卖惨，我是黄推，可以给你发图包和平时的涩情照片给你优先看 https://t.co/f8mj9U7EIm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1932500384687468671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5114,
+          "following_count": 62,
+          "like_count": 315,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 36
+        },
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

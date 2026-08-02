@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2071854467151286745",
+    "created_at": "2026-06-30T09:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071888141888426286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054233823899160576",
+          "start": 0,
+          "username": "omggggsad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071888141888426286",
+    "in_reply_to_user_id": "2054233823899160576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071884148550287378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omggggsad 你问她了？别人都不抽象就她抽象，那我直接曲解她就认了呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2071854467151286745",
+        "created_at": "2026-06-30T09:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071888141888426286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054233823899160576",
+              "start": 0,
+              "username": "omggggsad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071888141888426286",
+        "in_reply_to_user_id": "2054233823899160576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071884148550287378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omggggsad 你问她了？别人都不抽象就她抽象，那我直接曲解她就认了呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054233823899160576",
+        "conversation_id": "2071854467151286745",
+        "created_at": "2026-06-30T09:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071884148550287378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071884148550287378",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071854467151286745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 这不是阴阳小粉红文案吗 理解能力为0啊你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5545,
+          "following_count": 59,
+          "like_count": 407,
+          "listed_count": 12,
+          "media_count": 29,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T16:15:29.000Z",
+        "description": "🚪28 没有任何黄色内容只是加微信好友一起玩哦 可以看朋友圈然后偶尔聊聊天 收门槛是因为我想吃小蛋糕",
+        "id": "2054233823899160576",
+        "name": "Sadday",
+        "pinned_tweet_id": "2066903988688351508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071077099876843520/RZZrmLE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 88,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "omggggsad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932631083176394752",
+        "3_1932631083138625542"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1932631090830979201",
+    "created_at": "2025-06-11T02:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T03:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932631090830979201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XMSOb38Gkt",
+          "end": 56,
+          "expanded_url": "https://x.com/linlin444444/status/1932631090830979201/photo/1",
+          "media_key": "3_1932631083176394752",
+          "start": 33,
+          "url": "https://t.co/XMSOb38Gkt"
+        },
+        {
+          "display_url": "pic.x.com/XMSOb38Gkt",
+          "end": 56,
+          "expanded_url": "https://x.com/linlin444444/status/1932631090830979201/photo/1",
+          "media_key": "3_1932631083138625542",
+          "start": 33,
+          "url": "https://t.co/XMSOb38Gkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932631090830979201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有🚪哥溺爱一下，想要🚪哥的大口令，快要还信用卡了呜呜呜呜呜呜 https://t.co/XMSOb38Gkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_1932631083176394752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtIVuwqbgAATnbH.jpg",
+        "width": 855
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932631083138625542",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtIVuwhbMAYPKuX.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932631083176394752",
+            "3_1932631083138625542"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1932631090830979201",
+        "created_at": "2025-06-11T02:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T03:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932631090830979201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMSOb38Gkt",
+              "end": 56,
+              "expanded_url": "https://x.com/linlin444444/status/1932631090830979201/photo/1",
+              "media_key": "3_1932631083176394752",
+              "start": 33,
+              "url": "https://t.co/XMSOb38Gkt"
+            },
+            {
+              "display_url": "pic.x.com/XMSOb38Gkt",
+              "end": 56,
+              "expanded_url": "https://x.com/linlin444444/status/1932631090830979201/photo/1",
+              "media_key": "3_1932631083138625542",
+              "start": 33,
+              "url": "https://t.co/XMSOb38Gkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932631090830979201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有🚪哥溺爱一下，想要🚪哥的大口令，快要还信用卡了呜呜呜呜呜呜 https://t.co/XMSOb38Gkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1932500384687468671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5119,
+          "following_count": 62,
+          "like_count": 317,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 37
+        },
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

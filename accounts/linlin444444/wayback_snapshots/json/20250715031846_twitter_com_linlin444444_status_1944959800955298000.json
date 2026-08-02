@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1944959800955298000",
+    "created_at": "2025-07-15T03:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T04:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944959800955298000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sxshuishuimao/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/sxshuishuimao/status/1939165449448759354",
+          "start": 39,
+          "url": "https://t.co/J5R1qbioSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944959800955298000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939165449448759354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说出这种话你请高人都没用了，你这样定义就只是为了你的药滥找借口，懦弱的毒虫。 https://t.co/J5R1qbioSe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1944959800955298000",
+        "created_at": "2025-07-15T03:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944959800955298000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sxshuishuimao/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/sxshuishuimao/status/1939165449448759354",
+              "start": 39,
+              "url": "https://t.co/J5R1qbioSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944959800955298000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939165449448759354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说出这种话你请高人都没用了，你这样定义就只是为了你的药滥找借口，懦弱的毒虫。 https://t.co/J5R1qbioSe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1939165449448759354",
+        "created_at": "2025-06-29T03:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T04:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939165449448759354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939165449448759354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫药物滥用overdose？\n意思就是过量的吃有副作用的药，而且没带来任何治疗效果\n\n不是多吃就是药物滥用，多吃怎么了，多吃只要是合理的有正面效果的就是正确用药，只是剂量高点而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物圈科普系第一个地雷女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 86,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 63,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5274,
+          "following_count": 67,
+          "like_count": 417,
+          "listed_count": 10,
+          "media_count": 20,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜INFP-t｜ HRT咨詢｜不吃肉不是素食主義者喵｜灌注水貓謝謝喵｜拼圖積木代拼｜最愛14歲｜是豪貓不o不圓不割不死｜提問箱鏈接↓｜杀杀杀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1016,
+          "like_count": 193,
+          "listed_count": 5,
+          "media_count": 1380,
+          "tweet_count": 7798
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

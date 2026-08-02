@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928176205528027136"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1928176276860211376",
+    "created_at": "2025-05-29T19:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T20:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928176276860211376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lXEiYfWPav",
+          "end": 30,
+          "expanded_url": "https://x.com/linlin444444/status/1928176276860211376/video/1",
+          "media_key": "13_1928176205528027136",
+          "start": 7,
+          "url": "https://t.co/lXEiYfWPav"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928176276860211376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恋人位招租。 https://t.co/lXEiYfWPav"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13575,
+        "height": 1280,
+        "media_key": "13_1928176205528027136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928176205528027136/img/0Y_aa9CWIOSia0zY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928176205528027136/vid/avc1/320x568/TuBFnUwanxDXVBSF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928176205528027136/vid/avc1/480x852/o-B48yiqh_0CU5TN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928176205528027136/vid/avc1/720x1280/48gwlLLOOwXf9GpZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928176205528027136/pl/4NHElcrVdhu6Z6ic.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928176205528027136"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1928176276860211376",
+        "created_at": "2025-05-29T19:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T20:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928176276860211376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXEiYfWPav",
+              "end": 30,
+              "expanded_url": "https://x.com/linlin444444/status/1928176276860211376/video/1",
+              "media_key": "13_1928176205528027136",
+              "start": 7,
+              "url": "https://t.co/lXEiYfWPav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928176276860211376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恋人位招租。 https://t.co/lXEiYfWPav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5037,
+          "following_count": 61,
+          "like_count": 278,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 40
+        },
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

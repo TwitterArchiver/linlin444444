@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1933898536850198528"
+      ],
+      "media_source_tweet_id": [
+        "1933898591950778456"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1933898636162957699",
+    "created_at": "2025-06-14T14:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T15:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933898636162957699"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "林讨厌你"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893688350076542976",
+          "start": 3,
+          "username": "drug_artist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VH5KaDkJsj",
+          "end": 46,
+          "expanded_url": "https://x.com/drug_artist/status/1933898591950778456/video/1",
+          "media_key": "7_1933898536850198528",
+          "start": 23,
+          "url": "https://t.co/VH5KaDkJsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933898636162957699",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933898591950778456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist: #林讨厌你 https://t.co/VH5KaDkJsj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12166,
+        "height": 1280,
+        "media_key": "7_1933898536850198528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1933898536850198528/pu/img/tHALwagVacPce-GJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933898536850198528/pu/vid/avc1/320x568/dmUCDsxXw7F55axi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933898536850198528/pu/vid/avc1/480x852/BHs03ZYvjW_1DFjQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933898536850198528/pu/vid/avc1/720x1280/wa6q0c306LW0c8HG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1933898536850198528/pu/pl/nhbKBhQ1WqfLr3wZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1933898536850198528"
+          ],
+          "media_source_tweet_id": [
+            "1933898591950778456"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1933898636162957699",
+        "created_at": "2025-06-14T14:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933898636162957699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "林讨厌你"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893688350076542976",
+              "start": 3,
+              "username": "drug_artist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VH5KaDkJsj",
+              "end": 46,
+              "expanded_url": "https://x.com/drug_artist/status/1933898591950778456/video/1",
+              "media_key": "7_1933898536850198528",
+              "start": 23,
+              "url": "https://t.co/VH5KaDkJsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933898636162957699",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933898591950778456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist: #林讨厌你 https://t.co/VH5KaDkJsj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1933898536850198528"
+          ]
+        },
+        "author_id": "1893688350076542976",
+        "conversation_id": "1933898591950778456",
+        "created_at": "2025-06-14T14:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933898591950778456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "林讨厌你"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VH5KaDkJsj",
+              "end": 29,
+              "expanded_url": "https://x.com/drug_artist/status/1933898591950778456/video/1",
+              "media_key": "7_1933898536850198528",
+              "start": 6,
+              "url": "https://t.co/VH5KaDkJsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933898591950778456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#林讨厌你 https://t.co/VH5KaDkJsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1932500384687468671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5143,
+          "following_count": 61,
+          "like_count": 329,
+          "listed_count": 10,
+          "media_count": 19,
+          "tweet_count": 44
+        },
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "化学极乐百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "name": "沐雨",
+        "pinned_tweet_id": "1929792505656365248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 135,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

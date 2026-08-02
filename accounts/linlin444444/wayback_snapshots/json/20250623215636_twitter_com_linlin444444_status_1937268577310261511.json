@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1937268577310261511",
+    "created_at": "2025-06-23T21:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T22:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937268577310261511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1783797146694934528",
+          "start": 3,
+          "username": "linanxxxx04"
+        }
+      ],
+      "urls": [
+        {
+          "description": "本站wiki主不回答任何有关滥用药物的咨询，只接受咨询药物过量后的解决方式和避免药物过量的有关说明，包括但不限于“吃多少t会达到晕厥、致幻、解离”该回答只用于避免，不建议任何人以此剂量服用 t是tablet“片”的缩写，也可指代胶囊。例如，24t为24片或24颗",
+          "display_url": "laa.onl",
+          "end": 85,
+          "expanded_url": "https://www.laa.onl",
+          "start": 62,
+          "status": 200,
+          "title": "欢迎来到林猫猫的 wiki 呐",
+          "unwound_url": "https://www.laa.onl",
+          "url": "https://t.co/8OXPviRiaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937268577310261511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937268338083926125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linanxxxx04: Rxwiki网站目前可以正常访问\n如无法访问 请尝试：\n使用梯子\n更换浏览器\n\n官网：\n\nhttps://t.co/8OXPviRiaN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1937268577310261511",
+        "created_at": "2025-06-23T21:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T22:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937268577310261511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1783797146694934528",
+              "start": 3,
+              "username": "linanxxxx04"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本站wiki主不回答任何有关滥用药物的咨询，只接受咨询药物过量后的解决方式和避免药物过量的有关说明，包括但不限于“吃多少t会达到晕厥、致幻、解离”该回答只用于避免，不建议任何人以此剂量服用 t是tablet“片”的缩写，也可指代胶囊。例如，24t为24片或24颗",
+              "display_url": "laa.onl",
+              "end": 85,
+              "expanded_url": "https://www.laa.onl",
+              "start": 62,
+              "status": 200,
+              "title": "欢迎来到林猫猫的 wiki 呐",
+              "unwound_url": "https://www.laa.onl",
+              "url": "https://t.co/8OXPviRiaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937268577310261511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937268338083926125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linanxxxx04: Rxwiki网站目前可以正常访问\n如无法访问 请尝试：\n使用梯子\n更换浏览器\n\n官网：\n\nhttps://t.co/8OXPviRiaN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783797146694934528",
+        "conversation_id": "1937268338083926125",
+        "created_at": "2025-06-23T21:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T22:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937268338083926125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本站wiki主不回答任何有关滥用药物的咨询，只接受咨询药物过量后的解决方式和避免药物过量的有关说明，包括但不限于“吃多少t会达到晕厥、致幻、解离”该回答只用于避免，不建议任何人以此剂量服用 t是tablet“片”的缩写，也可指代胶囊。例如，24t为24片或24颗",
+              "display_url": "laa.onl",
+              "end": 68,
+              "expanded_url": "https://www.laa.onl",
+              "start": 45,
+              "status": 200,
+              "title": "欢迎来到林猫猫的 wiki 呐",
+              "unwound_url": "https://www.laa.onl",
+              "url": "https://t.co/8OXPviRiaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937268338083926125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Rxwiki网站目前可以正常访问\n如无法访问 请尝试：\n使用梯子\n更换浏览器\n\n官网：\n\nhttps://t.co/8OXPviRiaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物圈科普系第一个地雷女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 86,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 63,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5184,
+          "following_count": 59,
+          "like_count": 371,
+          "listed_count": 11,
+          "media_count": 21,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T09:56:05.000Z",
+        "description": "本账号为Rxwiki官方账号 为wiki主 主编 副编三人管理。官方账号：https://t.co/Zz5YDaeENa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 60,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 37,
+                "url": "https://t.co/Zz5YDaeENa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 0,
+                "url": "https://t.co/Zz5YDaeENa"
+              }
+            ]
+          }
+        },
+        "id": "1783797146694934528",
+        "name": "RxLL wiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937109790796185600/u1HQWotR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 11,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/Zz5YDaeENa",
+        "username": "linanxxxx04",
+        "verified": false
+      }
+    ]
+  }
+}

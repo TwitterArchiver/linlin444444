@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1927799254585606307",
+    "created_at": "2025-05-28T18:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T19:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927799254585606307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/autismberry/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/autismberry/status/1927484574483046467",
+          "start": 30,
+          "url": "https://t.co/SpOd9vdsz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927799254585606307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 121,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927484574483046467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样弄是等着毛囊发炎一辈子还是想自己的痕迹像艾滋一样触目？ https://t.co/SpOd9vdsz3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1927799254585606307",
+        "created_at": "2025-05-28T18:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T19:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927799254585606307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/autismberry/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/autismberry/status/1927484574483046467",
+              "start": 30,
+              "url": "https://t.co/SpOd9vdsz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927799254585606307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927484574483046467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样弄是等着毛囊发炎一辈子还是想自己的痕迹像艾滋一样触目？ https://t.co/SpOd9vdsz3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908086926391033856",
+        "conversation_id": "1927484574483046467",
+        "created_at": "2025-05-27T21:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T22:54:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927483700532384185",
+          "1927484574483046467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927484574483046467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3439,
+          "like_count": 56,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在尝试一种很新且廉价的脱毛方法：\n\n•首先用剃须刀全部刮干净\n•重新长到1~2毫米时用镊子连根拔起\n•用拼多多最便宜的手持激光脱毛仪对着镊子拔完的区域往死里打，会很疼但请你忍一下\n•可以用强碱性脱毛膏进一步腐蚀毛囊\n\n不知道能不能把毛囊“彻底弄死”，但是几千一次的激光手术我真的做不起...🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5045,
+          "following_count": 61,
+          "like_count": 268,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 39
+        },
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "Depression,Social Anxiety Disorder丨跨性别友好🏳️‍⚧️丨不介意私聊丨电报频道:https://t.co/LOY0rE9FR7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+rhFVzMLCYsw2M…",
+                "end": 80,
+                "expanded_url": "https://t.me/+rhFVzMLCYsw2MDI1",
+                "start": 57,
+                "url": "https://t.co/LOY0rE9FR7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BgYtllH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BgYtllH",
+                "start": 0,
+                "url": "https://t.co/W4UmUAk9cg"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "奶莓Berry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924891658023534592/hfbEow4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 927,
+          "like_count": 10106,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 1044
+        },
+        "url": "https://t.co/W4UmUAk9cg",
+        "username": "AutismBerry",
+        "verified": true
+      }
+    ]
+  }
+}

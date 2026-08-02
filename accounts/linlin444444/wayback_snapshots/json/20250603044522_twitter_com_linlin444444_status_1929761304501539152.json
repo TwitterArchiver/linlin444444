@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1929761304501539152",
+    "created_at": "2025-06-03T04:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T05:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929761304501539152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1808173229544202242",
+          "start": 3,
+          "username": "mmooioooooo"
+        },
+        {
+          "end": 30,
+          "id": "1699445300950093824",
+          "start": 17,
+          "username": "linlin444444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929761304501539152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929755134827155869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmooioooooo: @linlin444444 药实居然是你的导师吗，哇塞感觉你们俩好好磕！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1929761304501539152",
+        "created_at": "2025-06-03T04:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T05:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929761304501539152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808173229544202242",
+              "start": 3,
+              "username": "mmooioooooo"
+            },
+            {
+              "end": 30,
+              "id": "1699445300950093824",
+              "start": 17,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929761304501539152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929755134827155869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmooioooooo: @linlin444444 药实居然是你的导师吗，哇塞感觉你们俩好好磕！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808173229544202242",
+        "conversation_id": "1929712235376717925",
+        "created_at": "2025-06-03T04:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T05:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929755134827155869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929755134827155869",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929712235376717925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 药实居然是你的导师吗，哇塞感觉你们俩好好磕！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5063,
+          "following_count": 61,
+          "like_count": 281,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 40
+        },
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T16:17:58.000Z",
+        "description": "",
+        "id": "1808173229544202242",
+        "name": "X",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 36,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "mmooioooooo",
+        "verified": false
+      }
+    ]
+  }
+}

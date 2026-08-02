@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966863174302658560",
+        "3_1966863174306852867",
+        "3_1966863174302658562",
+        "3_1966863174302621697"
+      ],
+      "media_source_tweet_id": [
+        "1966863209157247041",
+        "1966863209157247041",
+        "1966863209157247041",
+        "1966863209157247041"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1966988166835175631",
+    "created_at": "2025-09-13T22:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T23:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966988166835175631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1775557501016297472",
+          "start": 3,
+          "username": "Ayanami090130"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8DFG8bb2lD",
+          "end": 83,
+          "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+          "media_key": "3_1966863174302658560",
+          "start": 60,
+          "url": "https://t.co/8DFG8bb2lD"
+        },
+        {
+          "display_url": "pic.x.com/8DFG8bb2lD",
+          "end": 83,
+          "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+          "media_key": "3_1966863174306852867",
+          "start": 60,
+          "url": "https://t.co/8DFG8bb2lD"
+        },
+        {
+          "display_url": "pic.x.com/8DFG8bb2lD",
+          "end": 83,
+          "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+          "media_key": "3_1966863174302658562",
+          "start": 60,
+          "url": "https://t.co/8DFG8bb2lD"
+        },
+        {
+          "display_url": "pic.x.com/8DFG8bb2lD",
+          "end": 83,
+          "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+          "media_key": "3_1966863174302621697",
+          "start": 60,
+          "url": "https://t.co/8DFG8bb2lD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966988166835175631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966863209157247041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayanami090130: 世界里只有自己和药物的救赎 真心、爱对于自己而言都是些噪音(&gt;﹏&lt;) https://t.co/8DFG8bb2lD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1966863174302658560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uzotobcAAkfsc.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1966863174306852867",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uzotpbcAMtkmz.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1966863174302658562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uzotobcAIDS3v.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1966863174302621697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uzotoa4AEbo-a.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966863174302658560",
+            "3_1966863174306852867",
+            "3_1966863174302658562",
+            "3_1966863174302621697"
+          ],
+          "media_source_tweet_id": [
+            "1966863209157247041",
+            "1966863209157247041",
+            "1966863209157247041",
+            "1966863209157247041"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1966988166835175631",
+        "created_at": "2025-09-13T22:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T23:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966988166835175631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1775557501016297472",
+              "start": 3,
+              "username": "Ayanami090130"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DFG8bb2lD",
+              "end": 83,
+              "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+              "media_key": "3_1966863174302658560",
+              "start": 60,
+              "url": "https://t.co/8DFG8bb2lD"
+            },
+            {
+              "display_url": "pic.x.com/8DFG8bb2lD",
+              "end": 83,
+              "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+              "media_key": "3_1966863174306852867",
+              "start": 60,
+              "url": "https://t.co/8DFG8bb2lD"
+            },
+            {
+              "display_url": "pic.x.com/8DFG8bb2lD",
+              "end": 83,
+              "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+              "media_key": "3_1966863174302658562",
+              "start": 60,
+              "url": "https://t.co/8DFG8bb2lD"
+            },
+            {
+              "display_url": "pic.x.com/8DFG8bb2lD",
+              "end": 83,
+              "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+              "media_key": "3_1966863174302621697",
+              "start": 60,
+              "url": "https://t.co/8DFG8bb2lD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966988166835175631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966863209157247041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayanami090130: 世界里只有自己和药物的救赎 真心、爱对于自己而言都是些噪音(&gt;﹏&lt;) https://t.co/8DFG8bb2lD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966863174302658560",
+            "3_1966863174306852867",
+            "3_1966863174302658562",
+            "3_1966863174302621697"
+          ]
+        },
+        "author_id": "1775557501016297472",
+        "conversation_id": "1966863209157247041",
+        "created_at": "2025-09-13T13:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966863209157247041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DFG8bb2lD",
+              "end": 64,
+              "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+              "media_key": "3_1966863174302658560",
+              "start": 41,
+              "url": "https://t.co/8DFG8bb2lD"
+            },
+            {
+              "display_url": "pic.x.com/8DFG8bb2lD",
+              "end": 64,
+              "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+              "media_key": "3_1966863174306852867",
+              "start": 41,
+              "url": "https://t.co/8DFG8bb2lD"
+            },
+            {
+              "display_url": "pic.x.com/8DFG8bb2lD",
+              "end": 64,
+              "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+              "media_key": "3_1966863174302658562",
+              "start": 41,
+              "url": "https://t.co/8DFG8bb2lD"
+            },
+            {
+              "display_url": "pic.x.com/8DFG8bb2lD",
+              "end": 64,
+              "expanded_url": "https://x.com/Ayanami090130/status/1966863209157247041/photo/1",
+              "media_key": "3_1966863174302621697",
+              "start": 41,
+              "url": "https://t.co/8DFG8bb2lD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966863209157247041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "世界里只有自己和药物的救赎 真心、爱对于自己而言都是些噪音(&gt;﹏&lt;) https://t.co/8DFG8bb2lD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5560,
+          "following_count": 67,
+          "like_count": 370,
+          "listed_count": 10,
+          "media_count": 33,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T16:14:47.000Z",
+        "description": "叫我程程或者程少就好！09 性别薯条（加盐版）每天喜欢高强度od 私聊赞赏码 把推当日记发 偶尔出cos🚪60求溺爱（私信找我要收款码)",
+        "id": "1775557501016297472",
+        "location": "Taiwan",
+        "name": "一生当小三的命苦小cc",
+        "pinned_tweet_id": "1959011279626240060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915991324949680130/rlU7Qwq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 78,
+          "like_count": 459,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 398
+        },
+        "username": "Ayanami090130",
+        "verified": false
+      }
+    ]
+  }
+}

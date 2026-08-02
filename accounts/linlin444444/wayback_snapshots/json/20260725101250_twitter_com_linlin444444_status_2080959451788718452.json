@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080012998924787712"
+      ],
+      "media_source_tweet_id": [
+        "2080013008106086501"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "2080959451788718452",
+    "created_at": "2026-07-25T10:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080959451788718452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973373506609094666",
+          "start": 3,
+          "username": "aixgyn8448168"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vJYrsIa8Vh",
+          "end": 48,
+          "expanded_url": "https://x.com/aixgyn8448168/status/2080013008106086501/photo/1",
+          "media_key": "3_2080012998924787712",
+          "start": 25,
+          "url": "https://t.co/vJYrsIa8Vh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080959451788718452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080013008106086501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aixgyn8448168: 奈白的雪子 https://t.co/vJYrsIa8Vh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2080012998924787712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2wzVkbYAAxg5P.jpg",
+        "width": 1315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080012998924787712"
+          ]
+        },
+        "author_id": "1973373506609094666",
+        "conversation_id": "2080013008106086501",
+        "created_at": "2026-07-22T19:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080013008106086501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vJYrsIa8Vh",
+              "end": 29,
+              "expanded_url": "https://x.com/aixgyn8448168/status/2080013008106086501/photo/1",
+              "media_key": "3_2080012998924787712",
+              "start": 6,
+              "url": "https://t.co/vJYrsIa8Vh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080013008106086501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1601,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "奈白的雪子 https://t.co/vJYrsIa8Vh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080012998924787712"
+          ],
+          "media_source_tweet_id": [
+            "2080013008106086501"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "2080959451788718452",
+        "created_at": "2026-07-25T10:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080959451788718452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973373506609094666",
+              "start": 3,
+              "username": "aixgyn8448168"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vJYrsIa8Vh",
+              "end": 48,
+              "expanded_url": "https://x.com/aixgyn8448168/status/2080013008106086501/photo/1",
+              "media_key": "3_2080012998924787712",
+              "start": 25,
+              "url": "https://t.co/vJYrsIa8Vh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080959451788718452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080013008106086501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aixgyn8448168: 奈白的雪子 https://t.co/vJYrsIa8Vh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5587,
+          "following_count": 64,
+          "like_count": 483,
+          "listed_count": 12,
+          "media_count": 27,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T13:05:40.000Z",
+        "description": "🚪188/288",
+        "id": "1973373506609094666",
+        "location": "只回🚪",
+        "name": "深深",
+        "pinned_tweet_id": "2019421895217803501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020475886295015424/BIL3BED1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 135,
+          "like_count": 1578,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "aixgyn8448168",
+        "verified": true
+      }
+    ]
+  }
+}

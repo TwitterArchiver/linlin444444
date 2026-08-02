@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2022072605042483417",
+    "created_at": "2026-02-12T22:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T23:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022072605042483417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1604275215995142149",
+          "start": 3,
+          "username": "loveu0702times"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022072605042483417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021645217485795401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveu0702times: 我现在想成为一个破了洞的避孕套，整体活着没什么意义，但能随机毁掉三个人的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2022072605042483417",
+        "created_at": "2026-02-12T22:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T23:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022072605042483417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1604275215995142149",
+              "start": 3,
+              "username": "loveu0702times"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022072605042483417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021645217485795401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveu0702times: 我现在想成为一个破了洞的避孕套，整体活着没什么意义，但能随机毁掉三个人的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604275215995142149",
+        "conversation_id": "2021645217485795401",
+        "created_at": "2026-02-11T17:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021645217485795401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021645217485795401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 123602,
+          "like_count": 2453,
+          "quote_count": 13,
+          "reply_count": 29,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "我现在想成为一个破了洞的避孕套，整体活着没什么意义，但能随机毁掉三个人的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5672,
+          "following_count": 60,
+          "like_count": 337,
+          "listed_count": 12,
+          "media_count": 27,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T00:39:59.000Z",
+        "description": "骚扰我立马死全家",
+        "id": "1604275215995142149",
+        "name": "弗水星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018955594242183169/D-kj-K-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15990,
+          "following_count": 176,
+          "like_count": 1433,
+          "listed_count": 35,
+          "media_count": 226,
+          "tweet_count": 3284
+        },
+        "username": "loveu0702times",
+        "verified": false
+      }
+    ]
+  }
+}

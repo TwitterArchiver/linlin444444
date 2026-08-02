@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1929782423056753129",
+    "created_at": "2025-06-03T08:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T09:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929816425251959006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1538522826826829825",
+          "start": 0,
+          "username": "DorothyL8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929816425251959006",
+    "in_reply_to_user_id": "1538522826826829825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929782423056753129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DorothyL8964 张嘴就来哦，说话没任何凭证😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1929782423056753129",
+        "created_at": "2025-06-03T08:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T09:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929816425251959006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538522826826829825",
+              "start": 0,
+              "username": "DorothyL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929816425251959006",
+        "in_reply_to_user_id": "1538522826826829825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929782423056753129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DorothyL8964 张嘴就来哦，说话没任何凭证😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538522826826829825",
+        "conversation_id": "1929782423056753129",
+        "created_at": "2025-06-03T06:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T07:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929782423056753129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mmooioooooo/st…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/mmooioooooo/status/1929755134827155869",
+              "start": 64,
+              "url": "https://t.co/OnnbUGoOFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929782423056753129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929755134827155869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以护理学院教授搞管控药物控制学生拍裸照给大号涨粉换来一个研究席位和推荐信，好嗑是吧？\n有没有上过大学的朋友说一下这样靠谱吗？ https://t.co/OnnbUGoOFT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5070,
+          "following_count": 61,
+          "like_count": 282,
+          "listed_count": 10,
+          "media_count": 15,
+          "tweet_count": 37
+        },
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:03:30.000Z",
+        "description": "中专（护校），云南人，在美帝挣扎求生。 (A man, made from enormous pain, disrespect, rejection, failure and losses; unstoppable, unyielding, offers his life for the call of duty.)",
+        "id": "1538522826826829825",
+        "name": "Hippocratic Patriotism",
+        "pinned_tweet_id": "1549723342286082051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838482594867871744/QccqDUlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 192,
+          "like_count": 26053,
+          "listed_count": 6,
+          "media_count": 3005,
+          "tweet_count": 36619
+        },
+        "username": "DorothyL8964",
+        "verified": true
+      }
+    ]
+  }
+}

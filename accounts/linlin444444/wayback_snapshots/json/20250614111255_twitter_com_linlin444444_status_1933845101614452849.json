@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933845092143603712",
+        "3_1933845092181356544"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1933845101614452849",
+    "created_at": "2025-06-14T11:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T12:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933845101614452849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EfnDcUPv4l",
+          "end": 36,
+          "expanded_url": "https://x.com/linlin444444/status/1933845101614452849/photo/1",
+          "media_key": "3_1933845092143603712",
+          "start": 13,
+          "url": "https://t.co/EfnDcUPv4l"
+        },
+        {
+          "display_url": "pic.x.com/EfnDcUPv4l",
+          "end": 36,
+          "expanded_url": "https://x.com/linlin444444/status/1933845101614452849/photo/1",
+          "media_key": "3_1933845092181356544",
+          "start": 13,
+          "url": "https://t.co/EfnDcUPv4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933845101614452849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每天就这么在墙内支教😅 https://t.co/EfnDcUPv4l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1395,
+        "media_key": "3_1933845092143603712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZl3YfaIAATqhh.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933845092181356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZl3YoaMAAl1fd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933845092143603712",
+            "3_1933845092181356544"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1933845101614452849",
+        "created_at": "2025-06-14T11:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T12:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933845101614452849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfnDcUPv4l",
+              "end": 36,
+              "expanded_url": "https://x.com/linlin444444/status/1933845101614452849/photo/1",
+              "media_key": "3_1933845092143603712",
+              "start": 13,
+              "url": "https://t.co/EfnDcUPv4l"
+            },
+            {
+              "display_url": "pic.x.com/EfnDcUPv4l",
+              "end": 36,
+              "expanded_url": "https://x.com/linlin444444/status/1933845101614452849/photo/1",
+              "media_key": "3_1933845092181356544",
+              "start": 13,
+              "url": "https://t.co/EfnDcUPv4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933845101614452849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天就这么在墙内支教😅 https://t.co/EfnDcUPv4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1932500384687468671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5146,
+          "following_count": 61,
+          "like_count": 326,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 40
+        },
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

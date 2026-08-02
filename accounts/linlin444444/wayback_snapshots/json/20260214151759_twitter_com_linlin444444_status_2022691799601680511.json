@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2022691799601680511",
+    "created_at": "2026-02-14T15:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022691799601680511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fnggnjn1/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/fnggnjn1/status/1897990112153420117",
+          "start": 7,
+          "url": "https://t.co/IYGG0heLW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022691799601680511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897990112153420117",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我呢蛆老师 https://t.co/IYGG0heLW9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2022691799601680511",
+        "created_at": "2026-02-14T15:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022691799601680511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fnggnjn1/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/fnggnjn1/status/1897990112153420117",
+              "start": 7,
+              "url": "https://t.co/IYGG0heLW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022691799601680511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897990112153420117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我呢蛆老师 https://t.co/IYGG0heLW9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614594152062406656",
+        "conversation_id": "1897990112153420117",
+        "created_at": "2025-03-07T12:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T13:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897990112153420117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897990112153420117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12673,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药圈更新换代太快了……（\n事实上核心圈子基本不动，下层的小商贩，小oder每半年就要换一大批。\n真正的药圈常青树，od不倒翁很少很少🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5677,
+          "following_count": 60,
+          "like_count": 340,
+          "listed_count": 12,
+          "media_count": 29,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化药设研究者 物种：蛆 可以叫我蛆老师 提供用药及药理咨询（不包括任何已列管毒品！） 蛆蛆要涨粉🥺🥺🥺 不推荐任何人使用我提到的药品",
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium⌬",
+        "pinned_tweet_id": "1919232126148362586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 68,
+          "like_count": 362,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 853
+        },
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966658324000382976",
+        "3_1966658323983593472",
+        "3_1966658324126199810",
+        "3_1966658323987787776"
+      ],
+      "media_source_tweet_id": [
+        "1966658342933143706",
+        "1966658342933143706",
+        "1966658342933143706",
+        "1966658342933143706"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "conversation_id": "1966733454650880116",
+    "created_at": "2025-09-13T05:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T06:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966733454650880116"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "线下"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "纯绿"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "半绿"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "江浙沪"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1599125227786608655",
+          "start": 3,
+          "username": "momoko8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MFJ6J4g3TP",
+          "end": 66,
+          "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+          "media_key": "3_1966658324000382976",
+          "start": 43,
+          "url": "https://t.co/MFJ6J4g3TP"
+        },
+        {
+          "display_url": "pic.x.com/MFJ6J4g3TP",
+          "end": 66,
+          "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+          "media_key": "3_1966658323983593472",
+          "start": 43,
+          "url": "https://t.co/MFJ6J4g3TP"
+        },
+        {
+          "display_url": "pic.x.com/MFJ6J4g3TP",
+          "end": 66,
+          "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+          "media_key": "3_1966658324126199810",
+          "start": 43,
+          "url": "https://t.co/MFJ6J4g3TP"
+        },
+        {
+          "display_url": "pic.x.com/MFJ6J4g3TP",
+          "end": 66,
+          "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+          "media_key": "3_1966658323987787776",
+          "start": 43,
+          "url": "https://t.co/MFJ6J4g3TP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966733454650880116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966658342933143706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoko8964: 我没钱了。#线下 #纯绿 #半绿 #门槛妹 #江浙沪 https://t.co/MFJ6J4g3TP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_1966658324000382976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0r5U2yboAAG77s.jpg",
+        "width": 1256
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966658323983593472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0r5U2ubcAAfwF4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966658324126199810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0r5U3QbcAIxBEn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966658323987787776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0r5U2vbcAA9bE3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966658324000382976",
+            "3_1966658323983593472",
+            "3_1966658324126199810",
+            "3_1966658323987787776"
+          ],
+          "media_source_tweet_id": [
+            "1966658342933143706",
+            "1966658342933143706",
+            "1966658342933143706",
+            "1966658342933143706"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1966733454650880116",
+        "created_at": "2025-09-13T05:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966733454650880116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "线下"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "纯绿"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "半绿"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "江浙沪"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1599125227786608655",
+              "start": 3,
+              "username": "momoko8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFJ6J4g3TP",
+              "end": 66,
+              "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+              "media_key": "3_1966658324000382976",
+              "start": 43,
+              "url": "https://t.co/MFJ6J4g3TP"
+            },
+            {
+              "display_url": "pic.x.com/MFJ6J4g3TP",
+              "end": 66,
+              "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+              "media_key": "3_1966658323983593472",
+              "start": 43,
+              "url": "https://t.co/MFJ6J4g3TP"
+            },
+            {
+              "display_url": "pic.x.com/MFJ6J4g3TP",
+              "end": 66,
+              "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+              "media_key": "3_1966658324126199810",
+              "start": 43,
+              "url": "https://t.co/MFJ6J4g3TP"
+            },
+            {
+              "display_url": "pic.x.com/MFJ6J4g3TP",
+              "end": 66,
+              "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+              "media_key": "3_1966658323987787776",
+              "start": 43,
+              "url": "https://t.co/MFJ6J4g3TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966733454650880116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966658342933143706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoko8964: 我没钱了。#线下 #纯绿 #半绿 #门槛妹 #江浙沪 https://t.co/MFJ6J4g3TP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966658324000382976",
+            "3_1966658323983593472",
+            "3_1966658324126199810",
+            "3_1966658323987787776"
+          ]
+        },
+        "author_id": "1599125227786608655",
+        "conversation_id": "1966658342933143706",
+        "created_at": "2025-09-13T00:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966658342933143706"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "线下"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "纯绿"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "半绿"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "江浙沪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFJ6J4g3TP",
+              "end": 50,
+              "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+              "media_key": "3_1966658324000382976",
+              "start": 27,
+              "url": "https://t.co/MFJ6J4g3TP"
+            },
+            {
+              "display_url": "pic.x.com/MFJ6J4g3TP",
+              "end": 50,
+              "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+              "media_key": "3_1966658323983593472",
+              "start": 27,
+              "url": "https://t.co/MFJ6J4g3TP"
+            },
+            {
+              "display_url": "pic.x.com/MFJ6J4g3TP",
+              "end": 50,
+              "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+              "media_key": "3_1966658324126199810",
+              "start": 27,
+              "url": "https://t.co/MFJ6J4g3TP"
+            },
+            {
+              "display_url": "pic.x.com/MFJ6J4g3TP",
+              "end": 50,
+              "expanded_url": "https://x.com/momoko8964/status/1966658342933143706/photo/1",
+              "media_key": "3_1966658323987787776",
+              "start": 27,
+              "url": "https://t.co/MFJ6J4g3TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966658342933143706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1229,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我没钱了。#线下 #纯绿 #半绿 #门槛妹 #江浙沪 https://t.co/MFJ6J4g3TP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5549,
+          "following_count": 67,
+          "like_count": 370,
+          "listed_count": 10,
+          "media_count": 32,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1960650157541732576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963221616009084928/flBsFQMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7423,
+          "following_count": 296,
+          "like_count": 22252,
+          "listed_count": 11,
+          "media_count": 1310,
+          "tweet_count": 14964
+        },
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

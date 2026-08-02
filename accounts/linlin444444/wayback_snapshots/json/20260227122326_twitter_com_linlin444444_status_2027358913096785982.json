@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027358894050488321",
+        "3_2027358894050385920",
+        "3_2027358894033715200"
+      ]
+    },
+    "author_id": "1699445300950093824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027358913096785982",
+    "created_at": "2026-02-27T12:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027358913096785982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z0am1zUWTw",
+          "end": 28,
+          "expanded_url": "https://x.com/linlin444444/status/2027358913096785982/photo/1",
+          "media_key": "3_2027358894050488321",
+          "start": 5,
+          "url": "https://t.co/z0am1zUWTw"
+        },
+        {
+          "display_url": "pic.x.com/z0am1zUWTw",
+          "end": 28,
+          "expanded_url": "https://x.com/linlin444444/status/2027358913096785982/photo/1",
+          "media_key": "3_2027358894050385920",
+          "start": 5,
+          "url": "https://t.co/z0am1zUWTw"
+        },
+        {
+          "display_url": "pic.x.com/z0am1zUWTw",
+          "end": 28,
+          "expanded_url": "https://x.com/linlin444444/status/2027358913096785982/photo/1",
+          "media_key": "3_2027358894033715200",
+          "start": 5,
+          "url": "https://t.co/z0am1zUWTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027358913096785982",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雪兔自避 https://t.co/z0am1zUWTw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027358913096785982].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027358913096785982",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027358913096785982"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2027358894050488321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKgLDgbsAEO1q6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2027358894050385920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKgLDgaIAAIT-9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2027358894033715200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKgLDcbwAA5JHk.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5671,
+          "following_count": 60,
+          "like_count": 341,
+          "listed_count": 12,
+          "media_count": 27,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

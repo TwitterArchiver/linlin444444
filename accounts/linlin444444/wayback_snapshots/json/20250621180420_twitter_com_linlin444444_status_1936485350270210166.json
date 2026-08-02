@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1936485350270210166",
+    "created_at": "2025-06-21T18:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T19:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936485350270210166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1805422371358359555",
+          "start": 3,
+          "username": "woaiqiangeiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936485350270210166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936066247470596254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woaiqiangeiwo: 谁能给我发个5200让我也发推特装逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1936485350270210166",
+        "created_at": "2025-06-21T18:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T19:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936485350270210166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1805422371358359555",
+              "start": 3,
+              "username": "woaiqiangeiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936485350270210166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936066247470596254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woaiqiangeiwo: 谁能给我发个5200让我也发推特装逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805422371358359555",
+        "conversation_id": "1936066247470596254",
+        "created_at": "2025-06-20T14:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936066247470596254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luvmyfei2/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/luvmyfei2/status/1936065354310336996",
+              "start": 19,
+              "url": "https://t.co/2IIGky0jxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936066247470596254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5161,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936065354310336996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能给我发个5200让我也发推特装逼 https://t.co/2IIGky0jxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5138,
+          "following_count": 59,
+          "like_count": 359,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 43
+        },
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T02:06:59.000Z",
+        "description": "防诈@aiqianzenmele 问问题/坐标10r 可以验证。🚪88好友位/288图包/520图包永久更新可以线下/1314图包➕电子女友/5200我可以立马来找你玩/8888主人你在哪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "aiqianzenmele"
+              }
+            ]
+          }
+        },
+        "id": "1805422371358359555",
+        "location": "接江浙沪 线下请入门",
+        "name": "我是一个涩会人",
+        "pinned_tweet_id": "1840763304589038051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805422499607527424/AGkrWFsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21912,
+          "following_count": 181,
+          "like_count": 1893,
+          "listed_count": 46,
+          "media_count": 899,
+          "tweet_count": 4138
+        },
+        "username": "woaiqiangeiwo",
+        "verified": false
+      }
+    ]
+  }
+}

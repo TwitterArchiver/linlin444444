@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1927759457863234020",
+    "created_at": "2025-05-28T16:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T17:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927759457863234020"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927759457863234020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 542,
+      "like_count": 9,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下次别模仿我们了，你学不了药代动力学，也进不来我们药圈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1927759457863234020",
+        "created_at": "2025-05-28T16:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T17:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927759457863234020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927759457863234020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 542,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下次别模仿我们了，你学不了药代动力学，也进不来我们药圈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5045,
+          "following_count": 61,
+          "like_count": 268,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 37
+        },
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

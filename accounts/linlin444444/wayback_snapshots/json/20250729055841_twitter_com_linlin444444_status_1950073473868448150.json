@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "1950073473868448150",
+    "created_at": "2025-07-29T05:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T06:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950073473868448150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3022697779",
+          "start": 3,
+          "username": "RXdruglab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mps.gov.cn/n6557558/c1015…",
+          "end": 114,
+          "expanded_url": "https://www.mps.gov.cn/n6557558/c10150600/content.html",
+          "start": 91,
+          "status": 521,
+          "unwound_url": "https://www.mps.gov.cn/n6557558/c10150600/content.html",
+          "url": "https://t.co/yhCfV4g7UC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950073473868448150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950063259199164742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RXdruglab: 三部门联合发布最新版《非药用类麻醉药品和精神药品目录》\n这个变化挺好的，把管制品分为一类二类和非药用，一二类用作纯医学上的管理区分，非药用的单独门类。\nhttps://t.co/yhCfV4g7UC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1950073473868448150",
+        "created_at": "2025-07-29T05:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950073473868448150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3022697779",
+              "start": 3,
+              "username": "RXdruglab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mps.gov.cn/n6557558/c1015…",
+              "end": 114,
+              "expanded_url": "https://www.mps.gov.cn/n6557558/c10150600/content.html",
+              "start": 91,
+              "status": 521,
+              "unwound_url": "https://www.mps.gov.cn/n6557558/c10150600/content.html",
+              "url": "https://t.co/yhCfV4g7UC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950073473868448150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950063259199164742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RXdruglab: 三部门联合发布最新版《非药用类麻醉药品和精神药品目录》\n这个变化挺好的，把管制品分为一类二类和非药用，一二类用作纯医学上的管理区分，非药用的单独门类。\nhttps://t.co/yhCfV4g7UC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1950063259199164742",
+        "created_at": "2025-07-29T05:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950063259199164742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mps.gov.cn/n6557558/c1015…",
+              "end": 99,
+              "expanded_url": "https://www.mps.gov.cn/n6557558/c10150600/content.html",
+              "start": 76,
+              "status": 521,
+              "unwound_url": "https://www.mps.gov.cn/n6557558/c10150600/content.html",
+              "url": "https://t.co/yhCfV4g7UC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950063259199164742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "三部门联合发布最新版《非药用类麻醉药品和精神药品目录》\n这个变化挺好的，把管制品分为一类二类和非药用，一二类用作纯医学上的管理区分，非药用的单独门类。\nhttps://t.co/yhCfV4g7UC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5303,
+          "following_count": 67,
+          "like_count": 428,
+          "listed_count": 10,
+          "media_count": 26,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15369,
+          "following_count": 17,
+          "like_count": 34,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}
