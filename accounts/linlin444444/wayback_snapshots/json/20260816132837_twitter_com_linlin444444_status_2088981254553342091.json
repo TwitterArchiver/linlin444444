@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2088868762938454266",
+    "created_at": "2026-08-16T13:28:37.000Z",
+    "display_text_range": [
+      23,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088981254553342091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1076746882494263297",
+          "start": 0,
+          "username": "jiejinghua"
+        },
+        {
+          "end": 22,
+          "id": "1580505223071641600",
+          "start": 12,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088981254553342091",
+    "in_reply_to_user_id": "1076746882494263297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088980594550353966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejinghua @qwq_shark 我本来就是精分😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2088868762938454266",
+        "created_at": "2026-08-16T13:28:37.000Z",
+        "display_text_range": [
+          23,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088981254553342091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1076746882494263297",
+              "start": 0,
+              "username": "jiejinghua"
+            },
+            {
+              "end": 22,
+              "id": "1580505223071641600",
+              "start": 12,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088981254553342091",
+        "in_reply_to_user_id": "1076746882494263297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088980594550353966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejinghua @qwq_shark 我本来就是精分😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076746882494263297",
+        "conversation_id": "2088868762938454266",
+        "created_at": "2026-08-16T13:25:59.000Z",
+        "display_text_range": [
+          25,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088980594550353966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            },
+            {
+              "end": 24,
+              "id": "1699445300950093824",
+              "start": 11,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088980594550353966",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088966932913664034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark @linlin444444 会精神分裂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2088981254553342091",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699445300950093824/1732617982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5556,
+          "following_count": 55,
+          "like_count": 542,
+          "listed_count": 11,
+          "media_count": 31,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具。免费提供用药科普请DM。交朋友私信，关注结晶化谢谢喵\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9skMB"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088980594550353966",
+        "name": "结晶化 - 亚文化论坛",
+        "pinned_tweet_id": "2087973981735235673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786694370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 92,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/VMFYr9skMB",
+        "username": "jiejinghua",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "我是小惨｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088966932913664034",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580505223071641600/1748273948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076651004213530624/pwYxJ56t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5382,
+          "following_count": 349,
+          "like_count": 3712,
+          "listed_count": 8,
+          "media_count": 630,
+          "tweet_count": 13482
+        },
+        "url": "",
+        "username": "qwq_shark",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

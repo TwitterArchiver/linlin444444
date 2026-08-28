@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2083836763404173387",
+    "created_at": "2026-08-02T11:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083872323309048245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083872323309048245",
+    "in_reply_to_user_id": "1937073350750466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083871517646196825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 这是骂我还是玩梗呢，姐我错了我再也不玩烂梗了别骂我😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2083836763404173387",
+        "created_at": "2026-08-02T11:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083872323309048245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083872323309048245",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083871517646196825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 这是骂我还是玩梗呢，姐我错了我再也不玩烂梗了别骂我😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2083836763404173387",
+        "created_at": "2026-08-02T11:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083871517646196825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083871517646196825",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083870286248812598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 🐔❤️🐔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5581,
+          "following_count": 66,
+          "like_count": 519,
+          "listed_count": 12,
+          "media_count": 30,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 766,
+          "like_count": 42184,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 8713
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

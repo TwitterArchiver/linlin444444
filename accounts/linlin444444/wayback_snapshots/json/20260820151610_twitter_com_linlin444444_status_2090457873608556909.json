@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2090442305501364611",
+    "created_at": "2026-08-20T15:16:10.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090457873608556909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701997020469399552",
+          "start": 0,
+          "username": "gongzisama1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090457873608556909",
+    "in_reply_to_user_id": "1701997020469399552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090442305501364611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongzisama1 公子是➗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2090442305501364611",
+        "created_at": "2026-08-20T15:16:10.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090457873608556909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701997020469399552",
+              "start": 0,
+              "username": "gongzisama1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090457873608556909",
+        "in_reply_to_user_id": "1701997020469399552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090442305501364611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongzisama1 公子是➗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2090442305501364611",
+        "created_at": "2026-08-20T14:14:18.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090442305501364611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IYDKMIGTHTKY23…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/IYDKMIGTHTKY23/status/2090100961440333901",
+              "start": 82,
+              "url": "https://t.co/a02tbbL8wB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090442305501364611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090100961440333901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：×\n有过男朋友：×\n有过女朋友：×\n喝过酒：√\n挂过科： √\n抽过烟/用过电子烟：√\n吻过别人：×\n被课堂赶出去：√\n考试作弊：√\n偷偷溜出家门： √ https://t.co/a02tbbL8wB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2090457873608556909",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699445300950093824/1732617982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5558,
+          "following_count": 58,
+          "like_count": 551,
+          "listed_count": 11,
+          "media_count": 32,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "description": "TG:@gongzisama\n账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqcGVd 大概几天统一回复一次\n策划药官方：@mingrentangRC\n名人堂RC开始出品，零售业务可咨询沐雨，也可联系我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 95,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 72,
+                "url": "https://t.co/lzROBqcGVd"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090442305501364611",
+        "name": "x-square 「公子」一世",
+        "pinned_tweet_id": "2082473811677737306",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 323,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

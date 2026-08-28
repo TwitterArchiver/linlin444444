@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2090464298619535516",
+    "created_at": "2026-08-20T15:41:42.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090464298619535516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698883918936842240",
+          "start": 3,
+          "username": "GGX123123"
+        },
+        {
+          "end": 28,
+          "id": "1397073722213736453",
+          "start": 15,
+          "username": "CycleDecoded"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090464298619535516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090386245604241912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GGX123123: @CycleDecoded 少看点垃圾短视频垃圾言情小说，有鸡毛的免死金牌，发不发火，打不打人，绿不绿帽，顾不顾家，取决于当事人的人品和坚守底线的自控能力，跟你是不是处男处女，卵子关系没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2090464298619535516",
+        "created_at": "2026-08-20T15:41:42.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090464298619535516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698883918936842240",
+              "start": 3,
+              "username": "GGX123123"
+            },
+            {
+              "end": 28,
+              "id": "1397073722213736453",
+              "start": 15,
+              "username": "CycleDecoded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090464298619535516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090386245604241912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GGX123123: @CycleDecoded 少看点垃圾短视频垃圾言情小说，有鸡毛的免死金牌，发不发火，打不打人，绿不绿帽，顾不顾家，取决于当事人的人品和坚守底线的自控能力，跟你是不是处男处女，卵子关系没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698883918936842240",
+        "conversation_id": "2090274883272151317",
+        "created_at": "2026-08-20T10:31:33.000Z",
+        "display_text_range": [
+          14,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090386245604241912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1397073722213736453",
+              "start": 0,
+              "username": "CycleDecoded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090386245604241912",
+        "in_reply_to_user_id": "1397073722213736453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10205,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090274883272151317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CycleDecoded 少看点垃圾短视频垃圾言情小说，有鸡毛的免死金牌，发不发火，打不打人，绿不绿帽，顾不顾家，取决于当事人的人品和坚守底线的自控能力，跟你是不是处男处女，卵子关系没有"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2090464298619535516",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699445300950093824/1732617982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5558,
+          "following_count": 58,
+          "like_count": 552,
+          "listed_count": 11,
+          "media_count": 32,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-05T02:21:58.000Z",
+        "description": "行く川の流れは絶えずして\n\nEnglish/汉语/日本語",
+        "id": "1698883918936842240",
+        "is_identity_verified": false,
+        "location": "中南海",
+        "most_recent_tweet_id": "2090412780079960300",
+        "name": "Hellfish",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1698883918936842240/1770726805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031005770545045504/ibMonF84_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 426,
+          "like_count": 37177,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 2624
+        },
+        "url": "",
+        "username": "GGX123123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-25T06:15:31.000Z",
+        "description": "AI工具实测 | 每周分享3个值得用的流程和场景 | 独立开发者×效率工具",
+        "id": "1397073722213736453",
+        "is_identity_verified": false,
+        "location": "United States",
+        "most_recent_tweet_id": "2090441203334717440",
+        "name": "海洋馆馆长",
+        "pinned_tweet_id": "2087135015557898417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397073722213736453/1786661459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087364704197066752/Vk1mPUlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7295,
+          "following_count": 1176,
+          "like_count": 119,
+          "listed_count": 26,
+          "media_count": 2000,
+          "tweet_count": 4753
+        },
+        "url": "",
+        "username": "CycleDecoded",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

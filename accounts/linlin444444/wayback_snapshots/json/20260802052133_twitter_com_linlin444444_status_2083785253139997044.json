@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2083704041591460246",
+    "created_at": "2026-08-02T05:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083785253139997044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Sakura8964666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083785253139997044",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083704041591460246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura8964666 说你老母呢，我戒药三个月戒烟只坚持了一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2083704041591460246",
+        "created_at": "2026-08-02T05:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083785253139997044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Sakura8964666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083785253139997044",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083704041591460246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura8964666 说你老母呢，我戒药三个月戒烟只坚持了一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916974498903166978",
+        "conversation_id": "2083704041591460246",
+        "created_at": "2026-08-01T23:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083704041591460246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083704041591460246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 812,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你废物到连香烟都戒不掉，那就别碰极乐了。因为香烟是唯一一个可以靠意志力戒断的物质，并且药店还有伐尼克兰，并且在这种支持下你还戒不掉，那只能说你是个完蛋的人，包括看到别人极乐就跟随的，等着被药物反噬吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5583,
+          "following_count": 66,
+          "like_count": 521,
+          "listed_count": 12,
+          "media_count": 30,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n精神药物科普：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Sakura",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 743,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Sakura8964666",
+        "verified": false
+      }
+    ]
+  }
+}
