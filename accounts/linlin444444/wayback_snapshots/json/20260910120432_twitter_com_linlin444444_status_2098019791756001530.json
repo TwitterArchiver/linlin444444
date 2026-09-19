@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2098019791756001530",
+    "created_at": "2026-09-10T12:04:32.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T13:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098019791756001530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loolzaozimiii/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/loolzaozimiii/status/2097997108897001802",
+          "start": 14,
+          "url": "https://t.co/VVw0KWg7er"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098019791756001530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097997108897001802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨女也要吃药？你也能怀孕？ https://t.co/VVw0KWg7er"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2098019791756001530",
+        "created_at": "2026-09-10T12:04:32.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098019791756001530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loolzaozimiii/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/loolzaozimiii/status/2097997108897001802",
+              "start": 14,
+              "url": "https://t.co/VVw0KWg7er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098019791756001530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097997108897001802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨女也要吃药？你也能怀孕？ https://t.co/VVw0KWg7er"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889248100503736320",
+        "conversation_id": "2097997108897001802",
+        "created_at": "2026-09-10T10:34:24.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097997108897001802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097997108897001802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老规矩 iPhone18pm1T颜色不限 可以一周无套 或者吃药 懂得私聊 2T可以加一周"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2098019791756001530",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699445300950093824/1732617982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5597,
+          "following_count": 62,
+          "like_count": 592,
+          "listed_count": 12,
+          "media_count": 34,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T09:40:30.000Z",
+        "description": "",
+        "id": "1889248100503736320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098016563677036875",
+        "name": "小藻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889248100503736320/1783507504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094295206657142784/rhd8IY04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 52,
+          "like_count": 14,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "loOlzaozimiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

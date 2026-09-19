@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2092595001096028614",
+    "created_at": "2026-08-26T12:53:38.000Z",
+    "display_text_range": [
+      12,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092596329235288405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1076746882494263297",
+          "start": 0,
+          "username": "jiejinghua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092596329235288405",
+    "in_reply_to_user_id": "1076746882494263297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092595001096028614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejinghua 明明他自己也惨过，为什么要打压曾经和自己同样陷在情绪里的小女孩啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2092595001096028614",
+        "created_at": "2026-08-26T12:53:38.000Z",
+        "display_text_range": [
+          12,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092596329235288405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1076746882494263297",
+              "start": 0,
+              "username": "jiejinghua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092596329235288405",
+        "in_reply_to_user_id": "1076746882494263297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092595001096028614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejinghua 明明他自己也惨过，为什么要打压曾经和自己同样陷在情绪里的小女孩啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076746882494263297",
+        "conversation_id": "2092595001096028614",
+        "created_at": "2026-08-26T12:48:21.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092595001096028614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiguang_lab/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/jiguang_lab/status/2092556478377001098",
+              "start": 28,
+              "url": "https://t.co/7sljRyMbP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092595001096028614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每个人的痛苦都有自己的尺度，本来就很难用消费水平、IP 或手机型号去量化。一直觉得地雷这个符号越来越傻逼，它原本承载的是某种脆弱、失序和难以言说的情绪，但当它被潮流不断复制以后，符号就开始脱离它所指向的真实经验，最后只剩下一套可以购买、模仿和展示的视觉语法。于是人们反过来拿这套符号审判谁“够不够惨”、谁才配痛苦。真正被消解的，恰恰是每个人原本无法被标签概括的真实情感。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092556478377001098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每个人的痛苦都有自己的尺度，本来就很难用消费水平、IP https://t.co/7sljRyMbP5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2092596329235288405",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699445300950093824/1732617982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5576,
+          "following_count": 62,
+          "like_count": 582,
+          "listed_count": 11,
+          "media_count": 31,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具。请勿滥用药物。免费提供用药科普请DM。交朋友私信，关注结晶化谢谢喵\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9skMB"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092595001096028614",
+        "name": "结晶化 - 亚文化论坛",
+        "pinned_tweet_id": "2087973981735235673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786694370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 140,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/VMFYr9skMB",
+        "username": "jiejinghua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

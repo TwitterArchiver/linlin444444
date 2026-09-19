@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1699445300950093824",
+    "conversation_id": "2094450365123150126",
+    "created_at": "2026-09-01T10:03:21.000Z",
+    "display_text_range": [
+      12,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094727804361519551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072643966563127296",
+          "start": 0,
+          "username": "NoraXworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094727804361519551",
+    "in_reply_to_user_id": "2072643966563127296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094450365123150126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoraXworld 辛辛苦苦当兵有了重大功绩终于能和五年以上刑满释放坐一桌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2094450365123150126",
+        "created_at": "2026-09-01T10:03:21.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094727804361519551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072643966563127296",
+              "start": 0,
+              "username": "NoraXworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094727804361519551",
+        "in_reply_to_user_id": "2072643966563127296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094450365123150126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoraXworld 辛辛苦苦当兵有了重大功绩终于能和五年以上刑满释放坐一桌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072643966563127296",
+        "conversation_id": "2094450365123150126",
+        "created_at": "2026-08-31T15:40:54.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094450365123150126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094450365123150126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 297056,
+          "like_count": 1905,
+          "quote_count": 5,
+          "reply_count": 262,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "胖东来是真的牛逼啊，今天才知道，做胖东来的供应商，胖东来会检查供应商有没有双休和交社保。\n艹，什么 tm 中国小欧盟！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2094727804361519551",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699445300950093824/1732617982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5595,
+          "following_count": 63,
+          "like_count": 571,
+          "listed_count": 12,
+          "media_count": 36,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T11:31:06.000Z",
+        "description": "🌍从美国硅谷跑回深圳搞AI\n💰创业搞钱|信息差|写段子\n✍️build in public",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nora-website-six.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nora-website-six.vercel.app",
+                "start": 0,
+                "url": "https://t.co/W5xvsaiiU9"
+              }
+            ]
+          }
+        },
+        "id": "2072643966563127296",
+        "is_identity_verified": true,
+        "location": "深圳",
+        "most_recent_tweet_id": "2094654776286081206",
+        "name": "Nora plus",
+        "pinned_tweet_id": "2092624492782903329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072643966563127296/1787720826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092478870947872768/-3u2FJcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 129,
+          "like_count": 414,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/W5xvsaiiU9",
+        "username": "NoraXworld",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
